@@ -2842,7 +2842,7 @@ To test this, the analysis compares two observer positions at opposite ends of t
 
 **The Transparency Project (TP)** — Britain's leading independent family court transparency monitor, operating without institutional access.[^TP]
 
-**Internal reform bodies (TIG and FRCTG)** — The Transparency Implementation Group (TIG, established 2021) and Financial Remedies Consultative & Transparency Group (FRCTG) are parallel bodies addressing transparency in children cases and financial remedy cases respectively. Both comprise judges, MoJ/HMCTS officials, and legal experts with decision-making authority. They are analysed together because the n=30 internal reform documents include minutes from both bodies, which conduct parallel transparency reform work with overlapping membership.
+**Internal reform bodies (TIG and FRCTG)** — The Transparency Implementation Group (TIG, established 2021) and Financial Remedies Consultative & Transparency Group (FRCTG) are parallel bodies addressing transparency in children cases and financial remedy cases respectively. Both comprise judges, MoJ/HMCTS officials, and legal experts with decision-making authority. They are analysed together because the internal reform documents include minutes from both bodies, which conduct parallel transparency reform work with overlapping membership.
 
 This external/internal comparison probes a central question: **Does institutional position make any difference to the ability to observe dysfunction?**
 
