@@ -3149,7 +3149,7 @@ The strongest evidence isn't what observers see about the system; it's what obse
 
 ---
 
-### 📊 Layer 5 Key Findings: Summary for Quick Reference
+### Layer 5 Key Findings: Summary for Quick Reference
 
 | Finding | Evidence | Implication |
 |---------|----------|-------------|
@@ -3251,79 +3251,115 @@ Layer 5 has established that the reality gap documented in Layers 1–4 is indep
 
 ## Primary Sources – The Transparency Project
 
-Transparency Project. (2025). Blog Corpus (n=67 posts, November 2024–October 2025). [Analysis of 36 transparency-focused posts from this corpus]. Retrieved November 15, 2025, from [https://www.transparencyproject.org.uk](https://www.transparencyproject.org.uk)
+Transparency Project. (2025). *Blog Corpus* (n=67 posts, November 2024–October 2025). [Analysis of 36 transparency-focused posts from this corpus]. Retrieved November 15, 2025, from https://www.transparencyproject.org.uk
 
-Key posts from this corpus referenced in analysis include:
-
+**Key posts from this corpus referenced in analysis include:**
 - "How Do I Get Hold of a Transcript?"
 - "EX107 Form Update"
 - "PD12R Implementation Tracking"
 - Multiple judgment analysis posts
 
+---
+
 ## Primary Sources – Internal Reform Documents (TIG & FRCTG)
 
-Courts and Tribunals Judiciary. (2021-2024). Transparency Implementation Group – Minutes and Sub-Group Minutes (n=36 documents). Retrieved November 15, 2025, from [https://www.judiciary.uk/guidance-and-resources/transparency-implementation-group-minutes-and-sub-group-minutes/](https://www.judiciary.uk/guidance-and-resources/transparency-implementation-group-minutes-and-sub-group-minutes/)
+Courts and Tribunals Judiciary. (2021-2024). *Transparency Implementation Group – Minutes and Sub-Group Minutes* (n=36 documents). Retrieved November 15, 2025, from https://www.judiciary.uk/guidance-and-resources/transparency-implementation-group-minutes-and-sub-group-minutes/
 
 ### Main TIG/FRCTG Meeting Minutes (n=7)
 
-- Courts and Tribunals Judiciary. (2022, June 29). FRCTG Meeting Minutes, 29 June 2022. [https://www.judiciary.uk/wp-content/uploads/2022/12/FRCTG-Meeting-Minutes-29-June-2022.pdf](https://www.judiciary.uk/wp-content/uploads/2022/12/FRCTG-Meeting-Minutes-29-June-2022.pdf)
-- Courts and Tribunals Judiciary. (2022, May 25). FRCTG Meeting Minutes, 25 May 2022. [https://www.judiciary.uk/wp-content/uploads/2022/12/FRCTG-Meeting-Minutes-25-May-2022.pdf](https://www.judiciary.uk/wp-content/uploads/2022/12/FRCTG-Meeting-Minutes-25-May-2022.pdf)
-- Courts and Tribunals Judiciary. (2022, April 27). FRCTG Meeting Minutes, 27 April 2022. [https://www.judiciary.uk/wp-content/uploads/2022/12/FRCTG-Meeting-Minutes-27-April-2022.pdf](https://www.judiciary.uk/wp-content/uploads/2022/12/FRCTG-Meeting-Minutes-27-April-2022.pdf)
-- Courts and Tribunals Judiciary. (2022, February 24). FRCTG Meeting Minutes, 24 Feb 2022. [https://www.judiciary.uk/wp-content/uploads/2022/12/FRCTG-Meeting-Minutes-24-Feb-2022.pdf](https://www.judiciary.uk/wp-content/uploads/2022/12/FRCTG-Meeting-Minutes-24-Feb-2022.pdf)
-- Courts and Tribunals Judiciary. (2021, December 15). TIG Meeting Minutes, 15 December 2021. [https://www.judiciary.uk/wp-content/uploads/2022/08/TIG-15-12-21-Approved-minutes.pdf](https://www.judiciary.uk/wp-content/uploads/2022/08/TIG-15-12-21-Approved-minutes.pdf)
-- Courts and Tribunals Judiciary. (2022, March 10). TIG Meeting Minutes, 10 March 2022. [https://www.judiciary.uk/wp-content/uploads/2022/08/TIG-Minutes-10-March-2022.pdf](https://www.judiciary.uk/wp-content/uploads/2022/08/TIG-Minutes-10-March-2022.pdf)
-- Courts and Tribunals Judiciary. (2022, October 31). TIG Meeting Minutes, 31 October 2022. [https://www.judiciary.uk/wp-content/uploads/2023/05/TIG-Minutes-31-10-22.pdf](https://www.judiciary.uk/wp-content/uploads/2023/05/TIG-Minutes-31-10-22.pdf)
+Courts and Tribunals Judiciary. (2021, December 15). *TIG Meeting Minutes, 15 December 2021*. https://www.judiciary.uk/wp-content/uploads/2022/08/TIG-15-12-21-Approved-minutes.pdf
+
+Courts and Tribunals Judiciary. (2022, February 24). *FRCTG Meeting Minutes, 24 February 2022*. https://www.judiciary.uk/wp-content/uploads/2022/12/FRCTG-Meeting-Minutes-24-Feb-2022.pdf
+
+Courts and Tribunals Judiciary. (2022, March 10). *TIG Meeting Minutes, 10 March 2022*. https://www.judiciary.uk/wp-content/uploads/2022/08/TIG-Minutes-10-March-2022.pdf
+
+Courts and Tribunals Judiciary. (2022, April 27). *FRCTG Meeting Minutes, 27 April 2022*. https://www.judiciary.uk/wp-content/uploads/2022/12/FRCTG-Meeting-Minutes-27-April-2022.pdf
+
+Courts and Tribunals Judiciary. (2022, May 25). *FRCTG Meeting Minutes, 25 May 2022*. https://www.judiciary.uk/wp-content/uploads/2022/12/FRCTG-Meeting-Minutes-25-May-2022.pdf
+
+Courts and Tribunals Judiciary. (2022, June 29). *FRCTG Meeting Minutes, 29 June 2022*. https://www.judiciary.uk/wp-content/uploads/2022/12/FRCTG-Meeting-Minutes-29-June-2022.pdf
+
+Courts and Tribunals Judiciary. (2022, October 31). *TIG Meeting Minutes, 31 October 2022*. https://www.judiciary.uk/wp-content/uploads/2023/05/TIG-Minutes-31-10-22.pdf
 
 ### Pilots Sub-Group Minutes (n=11)
 
-- Courts and Tribunals Judiciary. (2022, January 18). TIG Pilots Sub-group Meeting, 18 January 2022. [https://www.judiciary.uk/wp-content/uploads/2022/09/TIG-Pilots-sub-group-meeting-18-1-22.pdf](https://www.judiciary.uk/wp-content/uploads/2022/09/TIG-Pilots-sub-group-meeting-18-1-22.pdf)
-- Courts and Tribunals Judiciary. (2022, March 2). TIG Pilots Sub-group Meeting, 2 March 2022. [https://www.judiciary.uk/wp-content/uploads/2022/08/TIG-Pilots-sub-group-meeting-2-3-22.pdf](https://www.judiciary.uk/wp-content/uploads/2022/08/TIG-Pilots-sub-group-meeting-2-3-22.pdf)
-- Courts and Tribunals Judiciary. (2022, June 27). TIG Pilots Sub-group Meeting, 27 June 2022. [https://www.judiciary.uk/wp-content/uploads/2022/11/TIG-Pilots-sub-group-meeting-27-6-22.pdf](https://www.judiciary.uk/wp-content/uploads/2022/11/TIG-Pilots-sub-group-meeting-27-6-22.pdf)
-- Courts and Tribunals Judiciary. (2022, October 4). TIG Pilots Sub-group Meeting, 4 October 2022. [https://www.judiciary.uk/wp-content/uploads/2022/11/TIG-Pilots-sub-group-meeting-4-10-22.pdf](https://www.judiciary.uk/wp-content/uploads/2022/11/TIG-Pilots-sub-group-meeting-4-10-22.pdf)
-- Courts and Tribunals Judiciary. (2022, October 25). TIG Pilots Sub-group Meeting, 25 October 2022. [https://www.judiciary.uk/wp-content/uploads/2023/05/TIG-Pilots-sub-group-meeting-25-10-22.pdf](https://www.judiciary.uk/wp-content/uploads/2023/05/TIG-Pilots-sub-group-meeting-25-10-22.pdf)
-- Courts and Tribunals Judiciary. (2022, December 6). TIG Pilots Sub-group Meeting, 6 December 2022. [https://www.judiciary.uk/wp-content/uploads/2023/05/TIG-Pilots-sub-group-meeting-6-12-22.pdf](https://www.judiciary.uk/wp-content/uploads/2023/05/TIG-Pilots-sub-group-meeting-6-12-22.pdf)
-- Courts and Tribunals Judiciary. (2023, March 6). TIG Pilots Sub-group Meeting, 6 March 2023. [https://www.judiciary.uk/wp-content/uploads/2023/05/TIG-Pilots-sub-group-meeting-6-3-23.pdf](https://www.judiciary.uk/wp-content/uploads/2023/05/TIG-Pilots-sub-group-meeting-6-3-23.pdf)
-- Courts and Tribunals Judiciary. (2023, November 22). Media Pilot Sub-group Minutes, 22 November 2023. [https://www.judiciary.uk/wp-content/uploads/2024/04/Media-Pilot-Sub-group-minutes-22.11.23.pdf](https://www.judiciary.uk/wp-content/uploads/2024/04/Media-Pilot-Sub-group-minutes-22.11.23.pdf)
-- Courts and Tribunals Judiciary. (2024, March 26). Media Pilot Sub-group Minutes, 26 March 2024. [https://www.judiciary.uk/wp-content/uploads/2024/04/Media-Pilot-Sub-group-minutes-26.3.24.pdf](https://www.judiciary.uk/wp-content/uploads/2024/04/Media-Pilot-Sub-group-minutes-26.3.24.pdf)
-- Courts and Tribunals Judiciary. (2024, June 26). Media Pilot Sub-group Minutes, 26 June 2024. [https://www.judiciary.uk/wp-content/uploads/2025/04/Media-Pilot-Sub-group-minutes-26.6.24.pdf](https://www.judiciary.uk/wp-content/uploads/2025/04/Media-Pilot-Sub-group-minutes-26.6.24.pdf)
-- Courts and Tribunals Judiciary. (2024, December 4). Media Pilot Sub-group Minutes, 4 December 2024. [https://www.judiciary.uk/wp-content/uploads/2025/04/Media-Pilot-Sub-group-minutes-4.12.24.pdf](https://www.judiciary.uk/wp-content/uploads/2025/04/Media-Pilot-Sub-group-minutes-4.12.24.pdf)
+Courts and Tribunals Judiciary. (2022, January 18). *TIG Pilots Sub-group Meeting, 18 January 2022*. https://www.judiciary.uk/wp-content/uploads/2022/09/TIG-Pilots-sub-group-meeting-18-1-22.pdf
+
+Courts and Tribunals Judiciary. (2022, March 2). *TIG Pilots Sub-group Meeting, 2 March 2022*. https://www.judiciary.uk/wp-content/uploads/2022/08/TIG-Pilots-sub-group-meeting-2-3-22.pdf
+
+Courts and Tribunals Judiciary. (2022, June 27). *TIG Pilots Sub-group Meeting, 27 June 2022*. https://www.judiciary.uk/wp-content/uploads/2022/11/TIG-Pilots-sub-group-meeting-27-6-22.pdf
+
+Courts and Tribunals Judiciary. (2022, October 4). *TIG Pilots Sub-group Meeting, 4 October 2022*. https://www.judiciary.uk/wp-content/uploads/2022/11/TIG-Pilots-sub-group-meeting-4-10-22.pdf
+
+Courts and Tribunals Judiciary. (2022, October 25). *TIG Pilots Sub-group Meeting, 25 October 2022*. https://www.judiciary.uk/wp-content/uploads/2023/05/TIG-Pilots-sub-group-meeting-25-10-22.pdf
+
+Courts and Tribunals Judiciary. (2022, December 6). *TIG Pilots Sub-group Meeting, 6 December 2022*. https://www.judiciary.uk/wp-content/uploads/2023/05/TIG-Pilots-sub-group-meeting-6-12-22.pdf
+
+Courts and Tribunals Judiciary. (2023, March 6). *TIG Pilots Sub-group Meeting, 6 March 2023*. https://www.judiciary.uk/wp-content/uploads/2023/05/TIG-Pilots-sub-group-meeting-6-3-23.pdf
+
+Courts and Tribunals Judiciary. (2023, November 22). *Media Pilot Sub-group Minutes, 22 November 2023*. https://www.judiciary.uk/wp-content/uploads/2024/04/Media-Pilot-Sub-group-minutes-22.11.23.pdf
+
+Courts and Tribunals Judiciary. (2024, March 26). *Media Pilot Sub-group Minutes, 26 March 2024*. https://www.judiciary.uk/wp-content/uploads/2024/04/Media-Pilot-Sub-group-minutes-26.3.24.pdf
+
+Courts and Tribunals Judiciary. (2024, June 26). *Media Pilot Sub-group Minutes, 26 June 2024*. https://www.judiciary.uk/wp-content/uploads/2025/04/Media-Pilot-Sub-group-minutes-26.6.24.pdf
+
+Courts and Tribunals Judiciary. (2024, December 4). *Media Pilot Sub-group Minutes, 4 December 2024*. https://www.judiciary.uk/wp-content/uploads/2025/04/Media-Pilot-Sub-group-minutes-4.12.24.pdf
 
 ### Media Engagement/Reporting Sub-Group Minutes (n=6)
 
-- Courts and Tribunals Judiciary. (2022, January 18). Media Reporting Sub-group Minutes, 18 January 2022. [https://www.judiciary.uk/wp-content/uploads/2022/08/Media-Reporting-Sub-group-Minutes-18.1.22.pdf](https://www.judiciary.uk/wp-content/uploads/2022/08/Media-Reporting-Sub-group-Minutes-18.1.22.pdf)
-- Courts and Tribunals Judiciary. (2022, February 3). Media Engagement Sub-group Minutes, 3 February 2022. [https://www.judiciary.uk/wp-content/uploads/2022/08/Media-Engagement-Sub-group-Minutes-3.2.22.pdf](https://www.judiciary.uk/wp-content/uploads/2022/08/Media-Engagement-Sub-group-Minutes-3.2.22.pdf)
-- Courts and Tribunals Judiciary. (2022, June 28). TIG Media Engagement Meeting Notes, 28 June 2022. [https://www.judiciary.uk/wp-content/uploads/2022/08/TIG-Media-Engagement-28-June-22-notes-of-meeting.website.pdf](https://www.judiciary.uk/wp-content/uploads/2022/08/TIG-Media-Engagement-28-June-22-notes-of-meeting.website.pdf)
-- Courts and Tribunals Judiciary. (2022, October 26). TIG Media Reporting Meeting (Update on Pilots), 26 October 2022. [https://www.judiciary.uk/wp-content/uploads/2022/11/TIG-Media-Reporting-meeting-to-update-on-pilots-26-October-22-.pdf](https://www.judiciary.uk/wp-content/uploads/2022/11/TIG-Media-Reporting-meeting-to-update-on-pilots-26-October-22-.pdf)
-- Courts and Tribunals Judiciary. (2022, November 15). TIG Media Engagement Meeting, 15 November 2022. [https://www.judiciary.uk/wp-content/uploads/2022/11/TIG-Media-Engagement-15-November-22-Final-note-of-meeting.pdf](https://www.judiciary.uk/wp-content/uploads/2022/11/TIG-Media-Engagement-15-November-22-Final-note-of-meeting.pdf)
-- Courts and Tribunals Judiciary. (2022). TIG Wider Media Guidance. [https://www.judiciary.uk/wp-content/uploads/2022/11/TIG-wider-media-guidance.pdf](https://www.judiciary.uk/wp-content/uploads/2022/11/TIG-wider-media-guidance.pdf)
+Courts and Tribunals Judiciary. (2022, January 18). *Media Reporting Sub-group Minutes, 18 January 2022*. https://www.judiciary.uk/wp-content/uploads/2022/08/Media-Reporting-Sub-group-Minutes-18.1.22.pdf
+
+Courts and Tribunals Judiciary. (2022, February 3). *Media Engagement Sub-group Minutes, 3 February 2022*. https://www.judiciary.uk/wp-content/uploads/2022/08/Media-Engagement-Sub-group-Minutes-3.2.22.pdf
+
+Courts and Tribunals Judiciary. (2022, June 28). *TIG Media Engagement Meeting Notes, 28 June 2022*. https://www.judiciary.uk/wp-content/uploads/2022/08/TIG-Media-Engagement-28-June-22-notes-of-meeting.website.pdf
+
+Courts and Tribunals Judiciary. (2022, October 26). *TIG Media Reporting Meeting (Update on Pilots), 26 October 2022*. https://www.judiciary.uk/wp-content/uploads/2022/11/TIG-Media-Reporting-meeting-to-update-on-pilots-26-October-22-.pdf
+
+Courts and Tribunals Judiciary. (2022, November 15). *TIG Media Engagement Meeting, 15 November 2022*. https://www.judiciary.uk/wp-content/uploads/2022/11/TIG-Media-Engagement-15-November-22-Final-note-of-meeting.pdf
+
+Courts and Tribunals Judiciary. (2022). *TIG Wider Media Guidance*. https://www.judiciary.uk/wp-content/uploads/2022/11/TIG-wider-media-guidance.pdf
 
 ### Data Collection Sub-Group Minutes (n=5)
 
-- Courts and Tribunals Judiciary. (2022, January 27). Data Collection Sub-group Minutes, 27 January 2022. [https://www.judiciary.uk/wp-content/uploads/2022/08/Data-Collection-Sub-group-Minutes-27.01.22.pdf](https://www.judiciary.uk/wp-content/uploads/2022/08/Data-Collection-Sub-group-Minutes-27.01.22.pdf)
-- Courts and Tribunals Judiciary. (2022, February 15). TIG Data Collection Sub-Group Minutes, 15 February 2022. [https://www.judiciary.uk/wp-content/uploads/2022/08/TiG-Data-Collection-Sub-Group-Minutes-15.02.22.pdf](https://www.judiciary.uk/wp-content/uploads/2022/08/TiG-Data-Collection-Sub-Group-Minutes-15.02.22.pdf)
-- Courts and Tribunals Judiciary. (2022, March 1). Data Collection Sub-Group Minutes, 1 March 2022. [https://www.judiciary.uk/wp-content/uploads/2022/08/Data-Collection-Sub-Group-Minutes-1-March-2022.pdf](https://www.judiciary.uk/wp-content/uploads/2022/08/Data-Collection-Sub-Group-Minutes-1-March-2022.pdf)
-- Courts and Tribunals Judiciary. (2022, April 26). Data Collection Sub-Group Minutes, 26 April 2022. [https://www.judiciary.uk/wp-content/uploads/2022/08/Data-Collection-Sub-Group-Minutes-26.4.22-.pdf](https://www.judiciary.uk/wp-content/uploads/2022/08/Data-Collection-Sub-Group-Minutes-26.4.22-.pdf)
-- Courts and Tribunals Judiciary. (2022, June 13). Data Collection Sub-Group minutes, 13 June 2022. [https://www.judiciary.uk/wp-content/uploads/2022/08/Data-Collection-Sub-Group-minutes-13.06.22.pdf](https://www.judiciary.uk/wp-content/uploads/2022/08/Data-Collection-Sub-Group-minutes-13.06.22.pdf)
+Courts and Tribunals Judiciary. (2022, January 27). *Data Collection Sub-group Minutes, 27 January 2022*. https://www.judiciary.uk/wp-content/uploads/2022/08/Data-Collection-Sub-group-Minutes-27.01.22.pdf
+
+Courts and Tribunals Judiciary. (2022, February 15). *TIG Data Collection Sub-Group Minutes, 15 February 2022*. https://www.judiciary.uk/wp-content/uploads/2022/08/TiG-Data-Collection-Sub-Group-Minutes-15.02.22.pdf
+
+Courts and Tribunals Judiciary. (2022, March 1). *Data Collection Sub-Group Minutes, 1 March 2022*. https://www.judiciary.uk/wp-content/uploads/2022/08/Data-Collection-Sub-Group-Minutes-1-March-2022.pdf
+
+Courts and Tribunals Judiciary. (2022, April 26). *Data Collection Sub-Group Minutes, 26 April 2022*. https://www.judiciary.uk/wp-content/uploads/2022/08/Data-Collection-Sub-Group-Minutes-26.4.22-.pdf
+
+Courts and Tribunals Judiciary. (2022, June 13). *Data Collection Sub-Group minutes, 13 June 2022*. https://www.judiciary.uk/wp-content/uploads/2022/08/Data-Collection-Sub-Group-minutes-13.06.22.pdf
 
 ### Anonymisation Sub-Group Minutes (n=6)
 
-- Courts and Tribunals Judiciary. (2022, January 26). Anonymisation Sub-group Minutes, 26 January 2022. [https://www.judiciary.uk/wp-content/uploads/2022/08/Anonymisation-Sub-group-Minutes-26.1.22.pdf](https://www.judiciary.uk/wp-content/uploads/2022/08/Anonymisation-Sub-group-Minutes-26.1.22.pdf)
-- Courts and Tribunals Judiciary. (2022, March 7). Anonymisation Sub-group Minutes (SG2), 7 March 2022. [https://www.judiciary.uk/wp-content/uploads/2022/09/APPROVED-Minutes-SG2-Anonymisation-07Mar22-reviewed-MR.pdf](https://www.judiciary.uk/wp-content/uploads/2022/09/APPROVED-Minutes-SG2-Anonymisation-07Mar22-reviewed-MR.pdf)
-- Courts and Tribunals Judiciary. (2022, July 19). Anonymisation Sub-group Minutes, 19 July 2022. [https://www.judiciary.uk/wp-content/uploads/2023/02/19-July-2022-Minutes-SG2-Anonymisation.pdf](https://www.judiciary.uk/wp-content/uploads/2023/02/19-July-2022-Minutes-SG2-Anonymisation.pdf)
-- Courts and Tribunals Judiciary. (2023, July 11). Anonymisation Sub-group Minutes, 11 July 2023. [https://www.judiciary.uk/wp-content/uploads/2023/11/Anonymisation-Sub-group-minutes-11.7.23.pdf](https://www.judiciary.uk/wp-content/uploads/2023/11/Anonymisation-Sub-group-minutes-11.7.23.pdf)
-- Courts and Tribunals Judiciary. (2023, December 5). Anonymisation Sub-Group Minutes, 5 December 2023. [https://www.judiciary.uk/wp-content/uploads/2024/04/Anonymisation-Sub-Group-minutes-05.12.2023.pdf](https://www.judiciary.uk/wp-content/uploads/2024/04/Anonymisation-Sub-Group-minutes-05.12.2023.pdf)
-- Courts and Tribunals Judiciary. (2024, February 27). Anonymisation Sub-Group Minutes, 27 February 2024. [https://www.judiciary.uk/wp-content/uploads/2024/04/Anonymisation-Sub-Group-minutes-27.2.24.pdf](https://www.judiciary.uk/wp-content/uploads/2024/04/Anonymisation-Sub-Group-minutes-27.2.24.pdf)
+Courts and Tribunals Judiciary. (2022, January 26). *Anonymisation Sub-group Minutes, 26 January 2022*. https://www.judiciary.uk/wp-content/uploads/2022/08/Anonymisation-Sub-group-Minutes-26.1.22.pdf
+
+Courts and Tribunals Judiciary. (2022, March 7). *Anonymisation Sub-group Minutes (SG2), 7 March 2022*. https://www.judiciary.uk/wp-content/uploads/2022/09/APPROVED-Minutes-SG2-Anonymisation-07Mar22-reviewed-MR.pdf
+
+Courts and Tribunals Judiciary. (2022, July 19). *Anonymisation Sub-group Minutes, 19 July 2022*. https://www.judiciary.uk/wp-content/uploads/2023/02/19-July-2022-Minutes-SG2-Anonymisation.pdf
+
+Courts and Tribunals Judiciary. (2023, July 11). *Anonymisation Sub-group Minutes, 11 July 2023*. https://www.judiciary.uk/wp-content/uploads/2023/11/Anonymisation-Sub-group-minutes-11.7.23.pdf
+
+Courts and Tribunals Judiciary. (2023, December 5). *Anonymisation Sub-Group Minutes, 5 December 2023*. https://www.judiciary.uk/wp-content/uploads/2024/04/Anonymisation-Sub-Group-minutes-05.12.2023.pdf
+
+Courts and Tribunals Judiciary. (2024, February 27). *Anonymisation Sub-Group Minutes, 27 February 2024*. https://www.judiciary.uk/wp-content/uploads/2024/04/Anonymisation-Sub-Group-minutes-27.2.24.pdf
 
 ### Related Documents (n=1)
 
-- Courts and Tribunals Judiciary. (2023, February). Publication Guidance Subgroup Report. [https://www.judiciary.uk/wp-content/uploads/2023/02/Publication-Guidance-Subgroup-Report.pdf](https://www.judiciary.uk/wp-content/uploads/2023/02/Publication-Guidance-Subgroup-Report.pdf)
+Courts and Tribunals Judiciary. (2023, February). *Publication Guidance Subgroup Report*. https://www.judiciary.uk/wp-content/uploads/2023/02/Publication-Guidance-Subgroup-Report.pdf
+
+---
 
 ## Official Data and Legal Sources
 
-- HM Courts & Tribunals Service. (n.d.). Form EX107: Application for Transcript of Judgment or Order. HMG.
-- Judiciary of England and Wales. (2024, January). Practice Direction 12J – Child Arrangements & Contact Order: Domestic Abuse and Harm. [https://www.justice.gov.uk/courts/procedure-rules/family/practice_directions/pd_12j](https://www.justice.gov.uk/courts/procedure-rules/family/practice_directions/pd_12j)
-- Judiciary of England and Wales. (2024, October). Practice Direction 12R – Accredited Media Representatives: Attending Family Proceedings for the Purpose of Reporting.
-- Ministry of Justice. (2025). Family Court Statistics Quarterly, Q1 2025. HMG.
+HM Courts & Tribunals Service. (n.d.). *Form EX107: Application for Transcript of Judgment or Order*. HM Government.
+
+Judiciary of England and Wales. (2024, January). *Practice Direction 12J – Child Arrangements & Contact Order: Domestic Abuse and Harm*. https://www.justice.gov.uk/courts/procedure-rules/family/practice_directions/pd_12j
+
+Judiciary of England and Wales. (2024, October). *Practice Direction 12R – Accredited Media Representatives: Attending Family Proceedings for the Purpose of Reporting*.
+
+Ministry of Justice. (2025). *Family Court Statistics Quarterly, Q1 2025*. HM Government.
 
 
 ## 7.6 Cross-Layer Synthesis: From Convergence to Reform
