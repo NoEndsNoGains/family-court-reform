@@ -3048,34 +3048,34 @@ This corpus-wide data confirms TIG's structural blind spot: the internal reform 
 
 ### 6.5.3.3 The Positional Mobility Test: Dual Institutional Vantage and Methodological Contribution
 
-Having quantified the internal blind spots, we now test whether observational capacity depends on institutional position. A senior TP member simultaneously serves on TIG's anonymisation sub-group, creating a natural experiment. If institutional position determined access, TIG membership should reveal data unavailable to external monitors.[^Dual_Position] It does not.
+Having quantified the internal blind spots, we now test whether observational capacity depends on institutional position. A senior TP member (Lucy Reed, TP chair) serves on TIG's anonymisation sub-group, creating a natural experiment in organisational observability. Analysis of documents from the study period (2021-2024) shows that if institutional position determined what could be documented, TIG—with internal access—would have produced documentation unavailable to TP. It did not.
 
-**Documentable from both positions:**  
+**Documentable by both institutional positions:**  
 - Published judgments (BAILII corpus)  
 - Announced reforms (practice directions, pilot launches)  
 - Guidance drafts (sub-group proposals)  
 
-**Not documentable from either position:**  
+**Not documentable from either institutional position:**  
 - Refusal rates (unpublished decisions prevent aggregation)  
 - Geographic penetration (no denominator data)  
 - Cost patterns (vendors don't report; HMCTS doesn't collect)  
 - Implementation consistency (voluntary recording; no compliance monitoring)  
 - Impact metrics (no baseline; evaluation struggles with engagement data)  
 
-When the same individual observes both externally (TP blog) and internally (TIG sub-group) and encounters identical data gaps, it confirms that opacity is **architectural, not positional**. Barriers are about what the system makes visible, not who is looking.
+When an individual with dual institutional positioning contributes to outputs through both channels (TP blogs and TIG sub-group documentation), and both outputs face identical data gaps, it confirms that opacity is **architectural, not positional**. What can be documented depends on what the system makes available, not on who participates or what institutional access they have.
 
-**The methodological significance:** This dual positioning creates a controlled comparison that resolves a key methodological challenge: distinguishing between architectural constraints (the system makes certain data unavailable to all observers) and positional effects (different observers have access to different information). The positional mobility test controls for:
+**The methodological significance:** This creates a controlled comparison that distinguishes between architectural constraints (the system makes certain data unavailable regardless of institutional position) and positional effects (different positions access different information). The test controls for:
 
-- **Observer expertise** (same legal knowledge in both roles)
-- **Analytical approach** (same commitment to evidence-based transparency assessment)
-- **Interpretive frameworks** (same understanding of what transparency requires)
-- **Access to networks** (same professional relationships in both contexts)
+- **Participant expertise** (same legal knowledge in both positions)
+- **Analytical approach** (same commitment to evidence-based transparency assessment)  
+- **Interpretive frameworks** (same understanding of what transparency requires)  
+- **Professional networks** (same relationships accessed through both roles)
 
-By holding these variables constant while varying institutional position, the positional mobility test isolates system architecture as the causal variable explaining observational constraints. When a single observer shifts institutional positions and encounters identical data gaps from both vantage points, architectural causation is confirmed.
+By holding these variables constant while varying institutional position, the test isolates system architecture as the causal variable explaining observational constraints. When outputs from both institutional positions show identical gaps despite shared participation, architectural causation is confirmed.
 
-**This represents a novel methodological contribution to transparency research.** Rather than comparing what different observers report (vulnerable to confounding by observer characteristics), the positional mobility test tracks what a single observer encounters when shifting institutional positions. Where convergence occurs despite position change, architectural causation is confirmed. Where divergence occurs, positional effects can be identified. In this case, the convergence is absolute—this observer's external TP work and internal TIG work face identical blind spots—providing the strongest possible evidence that transparency barriers are structurally embedded in system design rather than consequences of observer position, expertise, or access.
+**This represents a novel methodological contribution to transparency research.** Instead of comparing outputs from different institutional positions—which risks confounding by positional characteristics—the test examines what can be documented when the same individual participates in both. Where convergence occurs despite different institutional positions, architectural causation is confirmed. In this case, the convergence is absolute—TP's external monitoring and TIG's internal reform work face identical blind spots despite shared participation—providing strong evidence that transparency barriers are structurally embedded in system design rather than consequences of institutional position or access.
 
-**Implications for Layer 5 validation:** The positional mobility test transforms the external/internal comparison from suggestive correlation to causal inference. It is not merely that TP and TIG both struggle with the same barriers; it is that when the same expert observer examines the system from opposite institutional positions, the barriers remain identical. This establishes that the reality gap operates at the architectural level, independent of who observes, from where they observe, or what tools they have available for observation.
+**Implications for Layer 5 validation:** The positional mobility test transforms the external/internal comparison from suggestive correlation to stronger inference about causation. It is not merely that TP and TIG both struggle with the same barriers; it is that outputs from both institutional positions face identical constraints despite shared participation. This establishes that the reality gap operates at the architectural level, independent of institutional position or access.
 
 ### 6.5.3.4 TIG/FRCTG Goals Confirm Observational Constraints
 
@@ -3187,6 +3187,8 @@ The convergent evidence across external and internal observers strongly supports
 - **On internal records:** The analysis systematically examined TIG/FRCTG internal documents (n=36) specifically to test whether institutional access reveals data unavailable externally. The keyword analysis (0 hits for EX107, EX105, litigant access) and repeated acknowledgments of "limited data," stalled "scorecards," and evaluation "struggles" demonstrate that internal actors face the same data deficits as external observers.
 
 **The positional mobility test provides the strongest counter to alternative explanations:** When the same individual shifts between external observation (TP blog authorship) and internal reform design (TIG sub-group membership), they encounter identical data gaps from both institutional vantage points. This natural experiment controls for observer expertise, analytical approach, and interpretive frameworks—isolating system architecture as the causal variable. If resource constraints, privacy requirements, or internal record availability explained observational limits, institutional position would matter. It does not.
+
+**Temporal Scope:** This analysis examines transparency observability during a specific period: TP blog output from November 2024 through October 2025, and TIG/FRCTG minutes from 2021 through 2024. The findings reflect the state of transparency infrastructure and reform implementation during this timeframe—specifically, the early months of PD12R implementation (January-October 2025). If HMCTS subsequently publishes comprehensive data on transcript requests, if TIG develops systematic monitoring mechanisms, or if institutional data infrastructure improves, the observational constraints documented here may diminish. However, the structural pattern—that observers can only document what the system chooses to record—would remain valid even if what gets recorded changes. The architectural principle holds: observability depends on system design, not observer effort. This analysis establishes what was observable during the study period; subsequent monitoring would be needed to assess whether architectural improvements occur.
 
 **Scope note:** This analysis treats architecture as the leading explanation because convergent evidence from multiple institutional positions, using different methods and data sources, consistently points to structural causation. Resource constraints and privacy protections undoubtedly play contributory roles in shaping what gets published and how monitoring work is prioritized, but they cannot account for the systematic pattern where both well-resourced internal reformers and external volunteer monitors face identical blind spots. Further research examining HMCTS/MOJ internal data systems, interviewing reform architects about resource allocation decisions, and comparing transparency infrastructure across jurisdictions would refine understanding of how architectural, resource, and privacy factors interact—but such research would specify rather than refute the fundamental finding that observational capacity is architecturally constrained.
 
