@@ -3079,7 +3079,7 @@ By holding these variables constant while varying institutional position, the te
 
 **Implications for Layer 5 validation:** The positional mobility test transforms the external/internal comparison from suggestive correlation to stronger inference about causation. It is not merely that TP and TIG both struggle with the same barriers; it is that outputs from both institutional positions face identical constraints despite shared participation. This establishes that the reality gap operates at the architectural level, independent of institutional position or access.
 
-### 6.5.3.4 TIG/FRCTG Goals Confirm Observational Constraints
+### 6.5.3.4 TIG/FRCTG Goals Confirm Observational Gaps
 
 Internal reform documents reveal objectives that validate the observational limitations documented throughout Layer 5. TIG/FRCTG establish specific numerical targets—5 judgments annually for Legal Advisers and District Judges, 5-10 for Circuit Judges, minimum 10 for High Court Judges[^TIG_Pub_Guidance]—alongside broader aspirations to expand transparency pilots, develop data strategies, and establish an Anonymisation Unit. Yet these goals systematically lack accountability infrastructure to measure whether they're achieved or enforce compliance.
 
