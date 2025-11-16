@@ -3051,7 +3051,9 @@ This corpus-wide data confirms TIG's structural blind spot: the internal reform 
 
 Having quantified the internal blind spots, we now test whether observational capacity depends on institutional position. A senior TP member (Lucy Reed, TP chair) has been deeply embedded within the reform structure, serving on the main TIG board and multiple sub-groups, including Anonymisation, Media Engagement, and Financial Remedies.
 
-This dual role created a natural experiment in positional observability. Analysis compared TP blog output (November 2024–October 2025) with TIG/FRCTG documentation (2021–2024). If institutional position determined what could be documented, TIG—with this level of sustained internal access—would have produced documentation unavailable to TP. It did not.
+**This cross-institutional participation represents sound governance design.** By including external transparency monitors in internal reform processes, TIG creates mechanisms for independent expertise to inform policy development, challenges institutional blind spots through external perspectives, and embeds accountability directly into reform architecture. This structural choice—bringing watchdogs inside the process rather than relegating them to critique from outside—demonstrates institutional openness to external scrutiny and commitment to evidence-based reform. It is precisely the kind of cross-sector collaboration that good governance literature recommends.
+
+**The dual role also creates a natural experiment in positional observability.** Analysis compared TP blog output (November 2024–October 2025) with TIG/FRCTG documentation (2021–2024). If institutional position determined what could be documented, TIG—with this level of sustained internal access—would have produced documentation unavailable to TP. It did not.
 
 ### Documentable by both institutional positions:
 - Published judgments (BAILII corpus)  
