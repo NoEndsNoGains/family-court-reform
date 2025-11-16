@@ -3095,17 +3095,25 @@ Internal reform documents reveal objectives that validate the observational limi
 - **Feedback loops** (Systems to identify barriers when targets aren't met)
 - **Accountability structures** (Are targets mandatory? What happens if not met?)
 - **Resource allocation** (Anonymisation support funded? Admin time committed? Timeline?)
-- **Clear success criteria** (What qualifies as a "published judgment"? How is "representative sample" operationalized?)
+- **Clear success criteria** (What qualifies as a "published judgment"? How is "representative sample" operationalised?)
 - **Public reporting** (Dashboards showing actual vs. target publication rates)
 - **Review and iteration** (Process to adjust targets based on evidence)
 
-This pattern—specific targets established, accountability mechanisms absent—demonstrates that reform architects can set goals but cannot systematically monitor whether those goals are met. When judges miss publication targets, no system flags the gap, no reporting mechanism documents the shortfall, and no institutional response follows. Contemporary goal-setting research demonstrates that numerical targets alone rarely drive behavior change without supporting infrastructure. The result: targets exist on paper but remain operationally inert.
+This pattern—specific targets established but no accountability mechanisms to support them—shows that reform architects can set goals but cannot monitor whether those goals are achieved. When judges miss publication targets, nothing in the system flags the gap, records the shortfall, or triggers any institutional response. Research on goal-setting consistently shows that numerical targets without supporting infrastructure rarely change behaviour. In this context, the targets become symbolic: they exist on paper but have no operational effect.
 
-**Beyond monitoring existing goals, a deeper question emerges: are these the right goals?** TIG/FRCTG's targets focus heavily on institutional activities—judges publishing judgments, pilots running, anonymisation explored—rather than user outcomes: Can litigants access their own transcripts? Do they know costs upfront? Can they challenge refusals? Are barriers to the Obtaining pathway measurably reduced? 
+**Beyond monitoring existing goals, a deeper question emerges: are these the right goals?** TIG/FRCTG's targets focus heavily on institutional activities—judges publishing judgments, pilots running, anonymisation explored—rather than user outcomes: Can litigants access their own transcripts? Do they know costs upfront? Can they challenge refusals? Are barriers to the Obtaining pathway measurably reduced? **And critically: if increased publication exposes procedural errors or unlawful practices, what mechanisms exist to respond when transparency reveals non-compliance?**
 
-This reflects a common organizational failure: measuring what's easy to count (published judgments on BAILII) rather than what matters most (whether families can access the records they need). Goal-setting science emphasizes starting with intended outcomes (transparency for whom? transparency of what?) and working backward to activities that produce those outcomes. TIG/FRCTG appear to have inverted this logic: setting activity targets without clearly defined outcome metrics. The result: reforms can "succeed" (pilots run, judgments publish) while the underlying problem (users cannot access information) persists unmeasured.
+This reflects a common organisational failure: measuring what is easiest to count—such as the number of judgments uploaded to BAILII—rather than what matters most, including whether families can actually access the records they need or whether transparency leads to any meaningful restoration of justice. Goal-setting science emphasises starting with intended outcomes (transparency for whom? transparency of what?) and working backward to activities that produce those outcomes. TIG/FRCTG appear to have inverted this logic: setting activity targets without clearly defined outcome metrics. The result: reforms can "succeed" (pilots run, judgments publish) while the underlying failures remain unmeasured: **users still cannot access essential case information, and judgments that are wrong in law continue unreported, unreviewed, and effectively invisible**—corroding public trust in the justice system itself.
 
 **The recursive failure:** Transparency reforms lack transparency about their own effectiveness. When reformers set targets but cannot report whether they're met, establish no consequences for non-compliance, and measure institutional activities rather than user outcomes, the architectural dysfunction becomes self-perpetuating.
+
+---
+## 6.5.4 Layer 5 Conclusion: The Architectural Ceiling on Observation
+
+Layer 5 demonstrates that transparency barriers are structurally embedded in the system's design, not merely a matter of user misunderstanding or external misperception. When Britain's leading family court transparency organisation—staffed by legal professionals, analysing published case law, monitoring reforms—encounters the same opacity when trying to document system performance, it validates that the dysfunction is structural rather than experiential. 
+
+More powerfully: when the judiciary's own reform implementation bodies—TIG and FRCTG, comprising judges, MoJ/HMCTS officials, and legal experts—face comparable barriers when designing and monitoring transparency reforms, the evidence strongly points to systemic, architectural constraints rather than merely positional limits.
+
 ---
 
 ### Three Critical Findings
@@ -3212,7 +3220,7 @@ If HMCTS subsequently publishes comprehensive data on transcript requests, if TI
 
 The architectural principle holds: observability depends on system design, not observer effort. This analysis establishes what was observable during the study period. Subsequent monitoring would be needed to assess whether architectural improvements occur.
 
-**Scope note:** This analysis treats architecture as the leading explanation because convergent evidence from multiple institutional positions, using different methods and data sources, consistently points to structural causation. Resource constraints and privacy protections undoubtedly play contributory roles in shaping what gets published and how monitoring work is prioritized, but they cannot account for the systematic pattern where both well-resourced internal reformers and external volunteer monitors face identical blind spots. 
+**Scope note:** This analysis treats architecture as the leading explanation because convergent evidence from multiple institutional positions, using different methods and data sources, consistently points to structural causation. Resource constraints and privacy protections undoubtedly play contributory roles in shaping what gets published and how monitoring work is prioritised, but they cannot account for the systematic pattern where both well-resourced internal reformers and external volunteer monitors face identical blind spots. 
 
 Further research examining HMCTS/MOJ internal data systems, interviewing reform architects about resource allocation decisions, and comparing transparency infrastructure across jurisdictions would refine understanding of how architectural, resource, and privacy factors interact—but such research would specify rather than refute the fundamental finding that observational capacity is architecturally constrained.
 
