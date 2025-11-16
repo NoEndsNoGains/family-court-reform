@@ -2868,12 +2868,16 @@ Analysis of TP's full blog output (n=67 posts, November 2024–October 2025) sho
 
 Of the 67 posts, **37 (55%)** focus directly on transparency.[^TP_Analysis] These divide into four functions:
 
+## Key Functions of the Transparency Project's Blog Posts on Family Court Transparency (November 2024 – October 2025)
+
 | Function | Count | % of Transparency Posts |
-|--------|-------|--------------------------|
+|----------|-------|------------------------|
 | Monitoring publication trends | 10 | 27% |
 | Educating on procedures & reporter rights | 8 | 22% |
 | Documenting rule & practice changes | 9 | 24% |
 | Critiquing implementation gaps | 10 | 27% |
+
+<sub>**Note:** This table summarises the primary functions identified in the Transparency Project's blog output based on qualitative coding of transparency-related content. Percentages are calculated from the 37 posts focused on transparency themes out of a total corpus of 67 posts during the period. Counts reflect the number of posts primarily addressing each function, with some overlap possible across categories. For full details, refer to the sources below. [^TP_Analysis] </sub>
 
 The remaining 30 posts (45%) cover case-specific analysis, fair trial procedures, and organisational matters. Beyond topic counts, the posts reveal which transparency pathways are actually observable: all 37 transparency posts (100%) concern the **Publication pathway**—what is published, how transparency orders work, and what reporters can access.
 
