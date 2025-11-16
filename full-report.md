@@ -2868,7 +2868,7 @@ Analysis of TP's full blog output (n=67 posts, November 2024–October 2025) sho
 
 Of the 67 posts, **37 (55%)** focus directly on transparency.[^TP_Analysis] These divide into four functions:
 
-## Key Functions of the Transparency Project's Blog Posts on Family Court Transparency (November 2024 – October 2025)
+#### Table 6.1: Key Functions of the Transparency Project's Blog Posts on Family Court Transparency (November 2024 – October 2025)
 
 | Function | Count | % of Transparency Posts |
 |----------|-------|------------------------|
