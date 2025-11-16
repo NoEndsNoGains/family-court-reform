@@ -3141,7 +3141,7 @@ TP's 100%/0% Publication/Obtaining coverage ratio (empirically derived from blog
 
 1. **Validate the two-pathway analytical framework.** External observers and internal reform architects independently organise transparency work around the same structural distinction identified in Layer 1. This confirms the framework reflects genuine system architecture rather than arbitrary analytical choice.
 
-2. **Reveal differential documentability.** Both TP and TIG/FRCTG focus disproportionately on Publication not only because it matters more, but because Publication generates visible legal activity—published judgments (TP can analyze), pilot participation (TIG can track). Meanwhile, Obtaining operates in shadows with unpublished refusals, untimed approvals, and invisible barriers that neither external monitoring nor internal evaluation can comprehensively capture.
+2. **Reveal differential documentability.** Both TP and TIG/FRCTG focus disproportionately on Publication not only because it matters more, but because Publication generates visible legal activity—published judgments (TP can analyse), pilot participation (TIG can track). Meanwhile, Obtaining operates in shadows with unpublished refusals, untimed approvals, and invisible barriers that neither external monitoring nor internal evaluation can comprehensively capture.
 
 This asymmetry creates dual exclusion:
 
