@@ -3207,7 +3207,6 @@ Layer 5 has established that the reality gap documented in Layers 1–4 is indep
 **Chapter 7.6 addresses these questions through cross-layer synthesis.** Where Layer 5 established that transparency barriers operate at the architectural level, Chapter 7.6 maps the causal chains linking institutional design voids (L1) to judicial accommodation (L2) to professional mediation gaps (L3) to user exclusion (L4) to meta-opacity (L5)—demonstrating why the reality gap is not merely documented across five layers but *produced* through their interaction. The synthesis reveals why single-layer fixes prove insufficient and what evidence-based reform must address to close the gap between formal transparency promises and operational realities.
 
 ---
-
 ### Footnotes
 
 [^TP]: The Transparency Project, https://www.transparencyproject.org.uk
@@ -3218,9 +3217,9 @@ Layer 5 has established that the reality gap documented in Layers 1–4 is indep
 
 [^TP_Analysis]: Full blog corpus analysis with post IDs, dates, publication links, and coding categories: [Layer 5 TP Blog Analysis Table](https://github.com/NoEndsNoGains/family-court-reform/blob/main/DATA/layer5_NGOs_media/Layer%205%20TP-BlogsAnalyesTable.md). The analysis coded all 67 TP blog posts (November 2024-October 2025) into transparency-focused (n=36) and other content (n=31), with transparency posts further categorised by function (monitoring, education, documentation, critique).
 
-[^TIG_Overview]: TIG establishment and composition documented in TIG Meeting Minutes, 15 December 2021. Available at: https://www.judiciary.uk/wp-content/uploads/2022/08/TIG-15-12-21-Approved-minutes.pdf. Chair: Sir Andrew McFarlane, President of the Family Division. Members include judiciary, MoJ, HMCTS, Cafcass, DfE, and Transparency Project representatives.
+[^TIG_page]: Judiciary.uk – TIG documents: https://www.judiciary.uk/guidance-and-resources/transparency-implementation-group-minutes-and-sub-group-minutes/
 
-[^TIG_Method]: **Methodology:** A full-text keyword search was conducted across the 36-document PDF corpus, downloaded from the Judiciary.uk website. Native OS search tools (macOS Spotlight / Windows Search) queried the *entire content* of all 36 files simultaneously, ensuring reproducibility of keyword frequency and context identification.
+[^TIG_Overview]: TIG establishment and composition documented in TIG Meeting Minutes, 15 December 2021. Available at: https://www.judiciary.uk/wp-content/uploads/2022/08/TIG-15-12-21-Approved-minutes.pdf. Chair: Sir Andrew McFarlane, President of the Family Division. Members include judiciary, MoJ, HMCTS, Cafcass, DfE, and Transparency Project representatives.
 
 [^Pilots_Timeline]: Pilot timeline: TIG Pilots Sub-group Meeting, 18 January 2022 (3-site launch planned). Available at: https://www.judiciary.uk/wp-content/uploads/2022/09/TIG-Pilots-sub-group-meeting-18-1-22.pdf; Media Pilot Sub-group Minutes, 26 June 2024 (20 DFJ area expansion confirmed). Available at: https://www.judiciary.uk/wp-content/uploads/2025/04/Media-Pilot-Sub-group-minutes-26.6.24.pdf
 
@@ -3236,6 +3235,8 @@ Layer 5 has established that the reality gap documented in Layers 1–4 is indep
 
 [^FRCTG_Forms]: Financial remedies form-guidance disconnects parallel EX107 issues: FRCTG Meeting Minutes, 27 April 2022 (parties report confusion about anonymity, publication procedures in FR cases). Available at: https://www.judiciary.uk/wp-content/uploads/2022/12/FRCTG-Meeting-Minutes-27-April-2022.pdf
 
+[^TIG_Method]: **Methodology:** A full-text keyword search was conducted across the 36-document PDF corpus, downloaded from the Judiciary.uk website. Native OS search tools (macOS Spotlight / Windows Search) queried the *entire content* of all 36 files simultaneously, ensuring reproducibility of keyword frequency and context identification.
+
 [^Dual_Position]: TP chair serves on TIG sub-groups, creating unique dual external/internal observer position. Documented across multiple TIG sub-group minutes including TIG Media Engagement Meeting, 15 November 2022. Available at: https://www.judiciary.uk/wp-content/uploads/2022/11/TIG-Media-Engagement-15-November-22-Final-note-of-meeting.pdf
 
 [^TIG_Judgments]: Courts and Tribunals Judiciary, "Anonymisation and Publication of Judgments sub-group"
@@ -3246,9 +3247,7 @@ Layer 5 has established that the reality gap documented in Layers 1–4 is indep
 
 [^TIG_Anon]: Courts and Tribunals Judiciary, "Family Court Transparency Implementation Group - First Progress Report"
 
-[^TIG_page]: [Judiciary.uk – TIG documents](https://www.judiciary.uk/guidance-and-resources/transparency-implementation-group-minutes-and-sub-group-minutes/)
-
-
+---
 
 # Bibliography
 
