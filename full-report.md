@@ -2842,7 +2842,7 @@ To test this, the analysis compares two observer positions at opposite ends of t
 
 **The Transparency Project (TP)** — Britain's leading independent family court transparency monitor, operating without institutional access.[^TP]
 
-**Internal reform bodies (TIG and FRCTG)** — The Transparency Implementation Group (TIG, established 2021) and Financial Remedies Consultative & Transparency Group (FRCTG) are parallel bodies addressing transparency in children cases and financial remedy cases respectively. Both comprise judges, MoJ/HMCTS officials, and legal experts with decision-making authority. They are analysed together because the internal reform documents include minutes from both bodies, which conduct parallel transparency reform work with overlapping membership.
+**Internal reform bodies (TIG and FRCTG)** — The Transparency Implementation Group (TIG, established 2021) and Financial Remedies Consultative & Transparency Group (FRCTG) are parallel bodies addressing transparency in children cases and financial remedy cases respectively. Both comprise judges, MoJ/HMCTS officials, and legal experts with decision-making authority. They are analysed together because the internal reform documents include minutes from both bodies, which conduct parallel transparency reform work with overlapping membership. [^TIG_FRCTG]
 
 This external/internal comparison probes a central question: **Does institutional position make any difference to the ability to observe dysfunction?**
 
@@ -2959,7 +2959,7 @@ External observers can explain what they see, but cannot document what the syste
 
 [^TP_Corpus]: Full corpus with dates and links: [TP Blog Posts Nov 2024 – Oct 2025](https://github.com/NoEndsNoGains/family-court-reform/blob/main/DATA/layer5_NGOs_media/TP%20Links%20to%20Blog%20Posts%20Nov%202024%20-%20Oct%2025.md)
 
-[^TP_Analysis]: Full coding breakdown with post IDs, dates, and analysis: [Layer 5 TP Blog Analysis Table](https://github.com/NoEndsNoGains/family-court-reform/blob/main/DATA/layer5_NGOs_media/Layer%205%20TP-BlogsAnalyesTable.md). Numbers in tables correspond to individual blog posts in the complete dataset (n=67 posts, November 2024-October 2025; 37 transparency-focused).
+[^TP_Analysis]: Full coding breakdown with post IDs, dates, and analysis: [Layer 5 TP Blog Analysis Table](https://github.com/NoEndsNoGains/family-court-reform/blob/main/DATA/layer5_NGOs_media/Layer%205%20TP-BlogsAnalyesTable.md).
 
 ---
 
@@ -3086,7 +3086,7 @@ The absence of quantifiable objectives in internal reform documents is not evide
 
 ---
 
-[^TIG_Overview]: TIG establishment and composition documented in TIG Meeting Minutes, 15 December 2021. Chair: Sir Andrew McFarlane, President of the Family Division. Members include judiciary, MoJ, HMCTS, Cafcass, DfE, and Transparency Project representatives.
+[^TIG_FRCTG]: All internal reform documents analysed in this chapter are drawn from the Judiciary.uk *Transparency Implementation Group – Minutes and Sub-Group Minutes* archive: https://www.judiciary.uk/guidance-and-resources/transparency-implementation-group-minutes-and-sub-group-minutes/. The archive contains meeting minutes, sub-group papers, and related documents for both the Transparency Implementation Group (TIG) and the Financial Remedies Consultative & Transparency Group (FRCTG). TIG (established 2021) addresses transparency in children cases; FRCTG addresses transparency in financial remedy cases. They are treated together because their minutes form a single combined documentary record of internal transparency reform, with overlapping membership and parallel workstreams.
 
 [^Pilots_Timeline]: TIG Pilots Sub-group Meeting, 18 January 2022 (3-site launch); Media Pilot Sub-group Minutes, 26 June 2024 (20 DFJ area expansion).
 
