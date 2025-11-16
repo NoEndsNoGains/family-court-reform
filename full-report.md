@@ -4321,6 +4321,81 @@ TEST 0.4
 | **L5: External Observation** | Transparency Project, media, researchers monitor transparency implementation | 2016: Young people analysed published judgments, expressed concerns about exposure; Children cannot observe proceedings about themselves (or, as adults, easily access records) | Policy discourse occurs entirely among adults; children's input confined to technical review; foundational policy questions remain unexamined | Chapter 9 (Structural: Child observation rights) + Chapter 10 (Roadmap: Phase 3 monitoring) |
 
 
+ADDITION 1: For Section 6.5.3.4 (TIG/FRCTG Goals) - Solutions Preview
+Location: End of section 6.5.3.4, after the "recursive failure" paragraph
+Note: This is a BRIEF preview only - full solutions belong in Chapters 8-10
+markdown**A pathway forward exists.** Contemporary organizational accountability combines three elements: **(1) automated monitoring** (BAILII uploads automatically tracked against judicial assignments, flagging gaps in real-time), **(2) transparent reporting** (quarterly public dashboards showing publication rates by court, DFJ area, and judicial role), and **(3) light-touch accountability** (annual performance reviews include publication compliance as one metric among many, not punitive but visible). 
+
+This approach, proven in healthcare quality metrics and educational accountability systems, balances professional autonomy with institutional transparency. TIG/FRCTG possess the authority to mandate such infrastructure. The question is not whether it's possible—it's whether institutional will exists to implement it.
+Status: Save detailed elaboration for Chapter 8/9
+
+ADDITION 2: For Chapter 8 or 9 (Reform Proposals) - Enhanced Monitoring System
+Location: Chapter 8 (Infrastructure Reform) or Chapter 9 (Implementation Mechanisms)
+Key Concept: Distinguish judge-initiated vs. party-initiated publications
+markdown### Publication Tracking: Judge-Initiated vs. Party-Initiated
+
+**The risk of selective publication:** If judges know they must publish 5-10 judgments annually out of 300+ decisions, they will carefully select which cases to publish. This creates incentive to publish routine, uncontroversial decisions while avoiding cases where errors may have occurred or decisions may face challenge.
+
+**Solution: Track publication initiator**
+
+Any comprehensive publication monitoring system should distinguish:
+
+- **Judge-initiated publications** (judicial discretion, voluntary compliance with targets)
+- **Party-initiated publications** (litigant requests under PD12R, media applications, transparency orders)
+
+**Why this matters:**
+
+1. **Accountability pressure:** If any party can request publication of their judgment, judges cannot selectively hide problematic decisions
+2. **Quality signal:** High party-initiated publication requests may indicate cases where litigants perceive errors or injustice
+3. **Pattern detection:** Clustering of party requests around specific judges, courts, or case types reveals where transparency demands are highest
+4. **Behavioral change:** Knowledge that any case could be published (not just judge-selected cases) incentivizes careful decision-making across all cases, not just the 5-10 "showcase" judgments
+
+**Implementation:** Publication databases should include simple categorical marker:
+- Judge-initiated (voluntary)
+- Party-initiated (litigant request)
+- Media-initiated (journalist application)
+- Court-initiated (transparency order)
+
+This data would be automatically generated and publicly reportable, enabling analysis of who drives transparency and where demand concentrates.
+
+ADDITION 3: For Chapter 10 (Conclusions) - The Ultimate Stakes
+Location: Chapter 10, new section titled "The Hidden Justice Crisis" or "Beyond Transparency: The Justice Accountability Gap"
+Critical question to address: If published judgments reveal unlawful decisions, what mechanisms exist to restore justice?
+markdown### The Hidden Justice Crisis
+
+The transparency deficit documented across five layers conceals a deeper problem: **without transcript access and publication pathways, unlawful decisions remain invisible and uncorrectable.**
+
+When litigants seek transcripts, they often do so not merely to possess a record but to **challenge decisions they believe are wrong in law**. When they seek publication orders under PD12R, it is frequently a **last resort**—an attempt to make visible what the system has failed to address internally. The parent requesting a transcript at prohibitive cost, the litigant seeking permission to share their own case publicly, the family attempting to document what happened in closed proceedings—these are not abstract transparency concerns. They are individuals confronting what they perceive as **injustice that the system will not acknowledge**.
+
+Yet the architectural barriers documented in this research prevent even this basic accountability mechanism from functioning. Users cannot afford transcripts (L4). Judges accommodate dysfunction rather than flagging it (L2). Professionals lack guidance to support access (L3). The system generates no data on refusals or costs (L1). And observers—both external and internal—cannot measure whether reforms address these barriers (L5).
+
+**The result: judgments that are wrong in law continue unreported, unreviewed, and effectively invisible.** Without systematic transcript access, patterns of error cannot be documented. Without publication pathways that work, unlawful practices cannot be exposed. Without observational infrastructure, the system cannot even detect whether it is producing unjust outcomes.
+
+This is not merely a transparency failure. It is a **justice failure**—one that corrodes public trust in the family court system itself. When those who experience potential injustice cannot access the records needed to challenge it, and when transparency mechanisms designed to enable accountability prove architecturally inaccessible, the system loses its capacity for self-correction. The barriers documented in this research do not just prevent observation—they prevent justice.
+
+#### The Unanswered Question: What Happens When Transparency Reveals Injustice?
+
+**A critical gap remains unaddressed:** Even if transparency mechanisms functioned as intended—transcripts were affordable, publication was accessible, monitoring was comprehensive—what happens when transparency reveals that judgments are wrong in law?
+
+Current transparency reforms assume that visibility alone drives accountability. But visibility without correction mechanisms is performative, not restorative. If increased publication exposes:
+- Procedural errors that violated parties' rights
+- Factual findings unsupported by evidence
+- Legal reasoning that misapplies statute or case law
+- Decisions made without proper consideration of relevant factors
+
+**What institutional mechanisms exist to:**
+- Systematically review published judgments for legal error?
+- Provide accessible appeal pathways when errors are identified?
+- Restore justice to parties harmed by unlawful decisions?
+- Learn from documented patterns of error to prevent recurrence?
+
+The architecture documented in this research reveals that these accountability loops **do not exist**. The system can (barely) produce visibility but cannot convert visibility into correction. Transparency becomes an end rather than a means—judgments are published, but no one systematically checks whether published judgments are lawful, and no accessible mechanisms exist to restore justice when they are not.
+
+**This represents the ultimate architectural failure:** a transparency system that can reveal injustice but can
+
+
+
+
 
 ## SECTION 8 INTEGRATION: CHILD-CENTERED TRANSPARENCY AS STRUCTURAL CORRECTION
 8. Policy Implications: Transcripts as Drivers of Systemic Change
