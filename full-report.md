@@ -3129,55 +3129,9 @@ This pattern—specific activities proposed, measurable outcomes absent—demons
 
 ---
 
-## 6.5.4 Reform Monitoring: 267% Increase, 0.2% Coverage – TP and TIG/FRCTG Converge
-
-TP tracks PD12R implementation via published judgments, while TIG/FRCTG track transparency pilots via internal logs and evaluation studies. Both datasets converge on performative reform cycles—patterns where institutions genuinely celebrate measurable progress (pilot expansions, rule changes, increased mentions) while remaining structurally unable to assess whether this progress addresses baseline dysfunction or represents marginal visibility gains within persistent opacity.
-
-### TP's PD12R Monitoring
-
-| Period | Judgments Mentioning PD12R | Monthly Average | % Change from Baseline |
-|--------|----------------------------|-----------------|------------------------|
-| Jan–Mar 2025 | 3–5 | 4 | Baseline |
-| Apr–Jun 2025 | 4–7 | 6 | +50% |
-| Jul–Sep 2025 | 8–9 | 8 | +267% |
-
-This appears to demonstrate successful reform adoption: judicial practice is changing, document provision is becoming normalised, transparency is improving.
-
-### TIG/FRCTG Pilot Monitoring
-
-| Period | Milestone | "Increase" | Shared Blind Spot |
-|--------|-----------|------------|-------------------|
-| 2023 Q1–Q2 | Public law pilots (3 sites) | +100% sites (from 0) | No denominator data; coverage <0.01% of proceedings |
-| 2023 Q3–2024 Q1 | Private law/magistrates rollout | +300% scope | Evaluation notes "limited" media engagement; no refusal statistics |
-| 2024 Q2–2025 | FPR Rule embedding; 20 DFJ areas | +567% areas | "Teething issues" persist; no utilisation metrics |
-
-### But Context Reveals Performative Reform Cycles
-
-This pattern demonstrates how institutions can genuinely celebrate progress while remaining structurally unable to measure that progress against baseline dysfunction:
-
-- **Unknown Denominator:** If ~22,514 family court proceedings occurred monthly (MOJ Q1 2025 data), 8 PD12R mentions = 0.1% system coverage. TIG/FRCTG 20-site expansion yields no denominator: What proportion of eligible cases actually implement transparency orders?
-
-- **Published Judgment Bias:** TP's data captures only cases that (a) resulted in published judgments AND (b) mentioned document provision. Internal evaluation notes most family proceedings never generate published judgments.
-
-- **Voluntary Reporting:** Neither judges nor court staff are required to systematically record transparency mechanisms. Internal minutes acknowledge "manual burden" of data collection prevents comprehensive monitoring.
-
-- **Geographic Concentration Unknown:** Neither TP nor TIG/FRCTG possesses geographic penetration data.
-
-### What Neither TP Nor TIG/FRCTG Can Answer
-
-Because institutional data infrastructure doesn't exist:
-
-- What percentage of family proceedings now involve media document access under PD12R?
-- How does implementation vary by court, region, or case type?
-- Are there systematic refusals, and on what grounds?
-- Has media reporting improved in depth, accuracy, or volume?
-- What is the actual penetration rate of transparency pilots in the 20 designated areas?
-
-**Layer 5 Insight:** External observers (TP) and internal reform architects (TIG/FRCTG) provide essential monitoring but are constrained by the same data deficits they critique. A 267% increase in visible implementation may represent genuine progress or minimal absolute penetration—neither can distinguish these interpretations without institutional transparency about system-wide utilisation. That nine months post-PD12R and three years into pilots we still cannot answer "How widely are these reforms being used?" demonstrates that **when reform processes lack their own transparency metrics, structural evaluation becomes impossible without institutional remedies.**
-
 ---
 
-## 6.5.5 Cross-Layer Validation: Five Independent Observers, One Architecture
+## 6.5.4 Cross-Layer Validation: Five Independent Observers, One Architecture
 
 The strongest evidence that Layers 1–4 document reality rather than perception comes from cross-layer convergence: TP and TIG/FRCTG, using different data sources, methods, and institutional positions, independently identify the same transparency barriers.
 
@@ -3201,7 +3155,7 @@ When six independent observers using different analytical approaches all identif
 
 ---
 
-## 6.5.6 Meta-Opacity: When Observers Face the Barriers They Document
+## 6.5.5 Meta-Opacity: When Observers Face the Barriers They Document
 
 The strongest validation of the reality gap thesis comes from a troubling pattern: external observers AND internal reform architects encounter transparency barriers when attempting to monitor the system.
 
@@ -3222,14 +3176,14 @@ Meta-opacity operates recursively across four levels:
 ### Invisible Refusals
 
 **Scenario 1: Obtaining Pathway**  
-Litigant requests transcript → Judge refuses → No published judgment results
+Litigant requests transcript → Judge refuses → No published judgment results. Transcript refusals are administrative decisions that generate no published record.
 - User experiences barrier (no transcript access)
 - TP cannot document barrier (refusal invisible to external observation)
 - TIG/FRCTG cannot track barrier (refusal not captured in pilot evaluation data)
 - Refusal pattern remains unknown (no aggregate data on refusal rates, grounds, judicial variation)
 
 **Scenario 2: Publication Pathway**  
-Litigant applies for publication permission → Judge refuses → Litigant cannot appeal
+Litigant applies for publication permission → Judge refuses → Litigant cannot appeal. Publication refusals may occasionally appear in case law if appealed or if judges publish their reasoning.
 - User experiences barrier (judgment remains private)
 - TP cannot document barrier (unpublished refusal means no analyzable reasoning)
 - TIG/FRCTG aware of "inconsistent" practices but lack refusal statistics to quantify problem
