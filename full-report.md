@@ -2866,7 +2866,8 @@ Analysis of TP's full blog output (n=67 posts, November 2024–October 2025) sho
 
 ### What External Observers Can See
 
-Of the 67 posts, 36 (54%) focus directly on transparency.[^TP_Analysis] These divide into four functions:
+Of the 67 posts, 36 (54%) focus directly on transparency.[^TP_Analysis] A striking pattern emerges: all transparency-focused TP output concerns the Publication pathway; the Obtaining pathway—transcripts, file access, cost barriers, or refusals—is systematically invisible. This Publication/Obtaining asymmetry is not incidental; it reflects an architectural ceiling on observation that recurs across internal and external monitoring.
+These 36 posts divide into four functions:
 
 #### Table 6.5.1: Key Functions of the Transparency Project's (TP) Blog Posts on Family Court Transparency (November 2024 – October 2025)
 
@@ -3024,7 +3025,7 @@ Internal reform documents (**n=36**, spanning TIG and FRCTG meetings and sub-gro
 | Media Engagement | ~10% | National and local forums built, yet late/vague case listing codes prevent journalists from locating hearings.[^Media_Codes] |
 | Financial Remedies | ~5% | FRCTG minutes flag identical form-guidance disconnects as found in EX107 analysis.[^FRCTG_Forms] |
 
-**Pattern Recognition:** Like TP's 100%/0% Publication/Obtaining split, TIG/FRCTG's operational priorities cluster on designing visible reforms. They are not measuring hidden barriers (refusals, costs, penetration rates). This is not a conscious deprioritisation—it's an architectural constraint preventing them from documenting what their own internal systems do not record.
+**Pattern Recognition:** Like TP's 100%/0% Publication/Obtaining split, TIG/FRCTG operational priorities cluster on designing visible reforms, not measuring hidden barriers. As noted, this Publication/Obtaining asymmetry reflects a structural constraint on observation.
 
 ### 6.5.3.2 Corpus Analysis: Quantifying the Internal Blind Spot
 
@@ -3067,7 +3068,7 @@ This dual role created a natural experiment in positional observability. Analysi
 When an individual with dual institutional positioning contributes to outputs through both channels (TP blogs and TIG sub-group documentation), and both outputs face identical data gaps, it confirms that opacity is **architectural, not positional**. What can be documented depends on what the system makes available, not on who participates or what institutional access they have.
 
 ### Methodological significance
-This controlled comparison distinguishes architectural constraints from positional effects. The convergence of blind spots—even when the same individual participates in both external and internal monitoring—confirms that barriers arise from system design, not observer access. In this case, the convergence is absolute: TP's external monitoring and TIG's internal reform work face identical blind spots despite shared participation, providing strong evidence that transparency barriers are structurally embedded rather than consequences of institutional position or access.
+This controlled comparison distinguishes architectural constraints from positional effects. Even when the same individual participates in both external and internal monitoring, the convergence of blind spots reflects the recurring Publication/Obtaining asymmetry: what can be documented is limited by system architecture, not by access or institutional position. In this case, the convergence is absolute—TP's external monitoring and TIG's internal reform work face identical blind spots despite shared participation—providing strong evidence that transparency barriers are structurally embedded rather than consequences of institutional position or access.
 
 ### Implications for Layer 5 validation
 The positional mobility test transforms the external/internal comparison from suggestive correlation to a stronger inference about causation: outputs from both institutional positions face identical constraints, confirming that the reality gap operates at the architectural level.
@@ -3091,6 +3092,8 @@ Internal reform documents reveal objectives that validate the observational limi
 - **Clear success criteria** (What qualifies as a "published judgment"? How is "representative sample" operationalised?)
 - **Public reporting** (Dashboards showing actual vs. target publication rates)
 - **Review and iteration** (Process to adjust targets based on evidence)
+
+Poor goal design amplifies architectural constraints. Even well-intentioned reformers cannot overcome structural opacity without mechanisms to track, monitor, and enforce outcomes.
 
 This pattern—specific targets established but no accountability mechanisms to support them—shows that reform architects can set goals but cannot monitor whether those goals are achieved. When judges miss publication targets, nothing in the system flags the gap, records the shortfall, or triggers any institutional response. Research on goal-setting consistently shows that numerical targets without supporting infrastructure rarely change behaviour. In this context, the targets become symbolic: they exist on paper but have no operational effect.
 
