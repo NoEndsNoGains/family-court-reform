@@ -73,4 +73,4 @@
 | 66 | repealing-presumption | 2025-10-28 | PPI repeal explainer | N | Substantive law | — | — |
 | 67 | legal-blogging-new-phase | 2023-01-01 | Legal blogging launch | N | Outside date range (2023) | — | — |
 
-**Note:** The 'Y' post count is 36, not 37, matching the number of 'Y' entries in the table. The thematic breakdown is: Critiquing Gaps (9), Documenting Change (9), Monitoring Output (10), and Educating Observers (8).
+**Note:** The thematic breakdown is: Critiquing Gaps (9), Documenting Change (9), Monitoring Output (10), and Educating Observers (8).
