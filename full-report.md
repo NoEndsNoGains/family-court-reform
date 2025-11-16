@@ -2832,7 +2832,7 @@ Layer 5 completes the evidential foundation; Chapter 8 converts it into actionab
 
 ## 6.5 Layer 5: Observers – External Monitors and Internal Reform Architects
 
-Layer 5 asks a foundational question: **Can transparency in the family courts be meaningfully observed and documented?** This question matters because transparency cannot be evaluated, improved, or held accountable unless it produces observable outputs. If transparency itself cannot be seen, then no actor—user, researcher, or reformer—can verify whether the system functions as intended.
+Layer 5 asks a foundational question: **Can transparency in the family courts be meaningfully observed and documented?** More precisely, can transparency be observed in ways that matter to users? If observable outputs do not reflect user access or experience, the system may appear transparent while failing its intended purpose.
 
 Here, **'user experience' refers to the barriers documented in Layers 1–4—what families, litigants, and professionals encounter when engaging with transparency mechanisms.** Those layers showed that institutional design creates voids, judicial practice accommodates dysfunction, professional mediation sustains inequality, and users face exclusion.
 
@@ -3073,11 +3073,11 @@ When an individual with dual institutional positioning contributes to outputs th
 - **Interpretive frameworks** (same understanding of what transparency requires)  
 - **Professional networks** (same relationships accessed through both roles)
 
-By holding these variables constant while varying institutional position, the test isolates system architecture as the causal variable explaining observational constraints. When outputs from both institutional positions show identical gaps despite shared participation, architectural causation is confirmed.
+By holding these variables constant while varying institutional position, the test isolates system architecture as the causal variable explaining observational constraints. The convergence of blind spots, even when the same individual participates in both external and internal monitoring, confirms that barriers arise from system design, not observer access.
 
-**This represents a novel methodological contribution to transparency research.** Instead of comparing outputs from different institutional positions—which risks confounding by positional characteristics—the test examines what can be documented when the same individual participates in both. Where convergence occurs despite different institutional positions, architectural causation is confirmed. In this case, the convergence is absolute—TP's external monitoring and TIG's internal reform work face identical blind spots despite shared participation—providing strong evidence that transparency barriers are structurally embedded in system design rather than consequences of institutional position or access.
+Methodological significance: This creates a controlled comparison that distinguishes architectural constraints from positional effects and represents a novel contribution to transparency research. In this case, the convergence is absolute—TP's external monitoring and TIG's internal reform work face identical blind spots despite shared participation—providing strong evidence that transparency barriers are structurally embedded rather than consequences of institutional position or access.
 
-**Implications for Layer 5 validation:** The positional mobility test transforms the external/internal comparison from suggestive correlation to stronger inference about causation. It is not merely that TP and TIG both struggle with the same barriers; it is that outputs from both institutional positions face identical constraints despite shared participation. This establishes that the reality gap operates at the architectural level, independent of institutional position or access.
+Implications for Layer 5 validation: The positional mobility test transforms the external/internal comparison from suggestive correlation to a stronger inference about causation: outputs from both institutional positions face identical constraints, confirming that the reality gap operates at the architectural level.
 
 ### 6.5.3.4 TIG/FRCTG Goals Confirm Observational Gaps
 
