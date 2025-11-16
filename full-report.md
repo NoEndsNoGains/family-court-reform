@@ -2830,7 +2830,7 @@ Layer 5 completes the evidential foundation; Chapter 8 converts it into actionab
 ---
 
 
-## 6.5 Layer 5: Observers – Independent Validation and Meta-Opacity
+## 6.5 Layer 5: Observers and Architects  – Independent Validation and Meta-Opacity
 
 Layer 5 asks a foundational question: **Can transparency in the family courts be meaningfully observed and documented?** This question matters because transparency cannot be evaluated, improved, or held accountable unless it produces observable outputs. If transparency itself cannot be seen, then no actor—user, researcher, or reformer—can verify whether the system functions as intended.
 
