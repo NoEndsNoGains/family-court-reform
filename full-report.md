@@ -3133,7 +3133,7 @@ This dual validation (external + internal) is not derivative or coordinated. It 
 
 The positional mobility test strengthens this finding. When the same individual shifts between external observation (TP blog authorship) and internal reform design (TIG sub-group membership), they encounter identical data deficits from both institutional vantage points. This confirms that opacity is architectural rather than positional. Barriers aren't about who's looking but about what the system makes visible regardless of observer position.
 
-**Finding 2: Pathway Asymmetry Validates Framework, Reveals Constraint
+**Finding 2: Pathway Asymmetry Validates Framework, Reveals Constraint**
 
 TP's 100%/0% Publication/Obtaining coverage ratio (empirically derived from blog corpus analysis, n=67 posts) and TIG/FRCTG's approximate operational focus distribution (~85% pilots/guidance/anonymisation vs. ~15% data collection, derived from thematic analysis of 36 minutes documents) simultaneously:
 
@@ -3148,7 +3148,7 @@ This asymmetry creates dual exclusion:
 
 The pathways where barriers are highest are precisely those where accountability monitoring is weakest. Obtaining barriers persist not despite reform attention, but absent any institutional recognition that obtaining constitutes a problem. When transcript access dysfunction is not conceptualised as systemic failure, no reform architecture addresses it.
 
-**Finding 3: Positional Convergence Confirms Architectural Causation—and Identifies Reform Capacity
+**Finding 3: Positional Convergence Confirms Architectural Causation—and Identifies Reform Capacity**
 
 External observers with legal expertise cannot answer fundamental accountability questions: How many transcript requests are refused? What do transcripts typically cost? What proportion of PD12R-eligible cases use transparency mechanisms? 
 
