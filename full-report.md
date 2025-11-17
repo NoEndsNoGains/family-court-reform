@@ -3108,7 +3108,7 @@ This reflects a common organisational failure: measuring what is easiest to coun
 ---
 ## 6.5.4 Layer 5 Conclusion: The Architectural Ceiling on Observation
 
-Layer 5 demonstrates that transparency barriers are structurally embedded in the system's design, not merely a matter of user misunderstanding or external misperception. When Britain's leading family court transparency organisation—staffed by legal professionals, analysing published case law, monitoring reforms—encounters the same opacity when trying to document system performance, it validates that the dysfunction is structural rather than experiential. 
+Layer 5 demonstrates that transparency barriers are structurally embedded in the system's design, not merely a matter of user misunderstanding or external misperception. When Britain's leading family court transparency organisation—staffed by legal professionals, analysing published case law, monitoring reforms—encounters the same opacity when trying to document system performance, it validates that the dysfunction is structural rather than experiential.
 
 More powerfully: when the judiciary's own reform implementation bodies—TIG and FRCTG, comprising judges, MoJ/HMCTS officials, and legal experts—face comparable barriers when designing and monitoring transparency reforms, the evidence strongly points to systemic, architectural constraints rather than merely positional limits.
 
@@ -3116,9 +3116,9 @@ More powerfully: when the judiciary's own reform implementation bodies—TIG and
 
 ### Three Critical Findings
 
-**Finding 1: Independent Validation Through Convergence**
+#### Finding 1: Independent Validation Through Convergence
 
-TP's work independently identifies the same transparency barriers documented in Layers 1–4, using different data sources (published judgments, guidance documents, reform announcements) and different methods (legal analysis, procedural explanation, reform monitoring). 
+TP's work independently identifies the same transparency barriers documented in Layers 1–4, using different data sources (published judgments, guidance documents, reform announcements) and different methods (legal analysis, procedural explanation, reform monitoring).
 
 TIG/FRCTG's work also independently identifies the same barriers, using still different data sources (pilot evaluations, sub-group consultations, institutional statistics where available) and different methods (reform design, implementation monitoring, stakeholder engagement)—despite being positioned inside the reform process with institutional access TP lacks.
 
@@ -3128,12 +3128,12 @@ This dual validation (external + internal) is not derivative or coordinated. It 
 - Judicial accommodation patterns where critique doesn't translate to reform signals (L2)
 - Professional practice gaps sustain knowledge asymmetries (L3)
 - User barriers produce financial exclusion and procedural disempowerment (L4)
-- **External monitoring limitations prevent comprehensive documentation (L5-TP)**
-- **Internal reform constraints prevent effectiveness measurement (L5-TIG/FRCTG)**
+- External monitoring limitations prevent comprehensive documentation (L5-TP)
+- Internal reform constraints prevent effectiveness measurement (L5-TIG/FRCTG)
 
 The positional mobility test strengthens this finding. When the same individual shifts between external observation (TP blog authorship) and internal reform design (TIG sub-group membership), they encounter identical data deficits from both institutional vantage points. This confirms that opacity is architectural rather than positional. Barriers aren't about who's looking but about what the system makes visible regardless of observer position.
 
-**Finding 2: Pathway Asymmetry Validates Framework, Reveals Constraint**
+#### Finding 2: Pathway Asymmetry Validates Framework, Reveals Constraint
 
 TP's 100%/0% Publication/Obtaining coverage ratio (empirically derived from blog corpus analysis, n=67 posts) and TIG/FRCTG's approximate operational focus distribution (~85% pilots/guidance/anonymisation vs. ~15% data collection, derived from thematic analysis of 36 minutes documents) simultaneously:
 
@@ -3148,9 +3148,9 @@ This asymmetry creates dual exclusion:
 
 The pathways where barriers are highest are precisely those where accountability monitoring is weakest. Obtaining barriers persist not despite reform attention, but absent any institutional recognition that obtaining constitutes a problem. When transcript access dysfunction is not conceptualised as systemic failure, no reform architecture addresses it.
 
-**Finding 3: Positional Convergence Confirms Architectural Causation—and Identifies Reform Capacity**
+#### Finding 3: Positional Convergence Confirms Architectural Causation—and Identifies Reform Capacity
 
-External observers with legal expertise cannot answer fundamental accountability questions: How many transcript requests are refused? What do transcripts typically cost? What proportion of PD12R-eligible cases use transparency mechanisms? 
+External observers with legal expertise cannot answer fundamental accountability questions: How many transcript requests are refused? What do transcripts typically cost? What proportion of PD12R-eligible cases use transparency mechanisms?
 
 Critically, internal reform architects face identical constraints. TIG/FRCTG minutes acknowledge "limited data," scorecards stall, and evaluations "struggle" with engagement metrics. Yet TIG/FRCTG members are not merely observers—they are the architects designing transparency reforms. They draft practice directions, design pilot schemes, and establish monitoring frameworks. They cannot systematically assess whether their own reforms are adopted, effective, or reaching intended users.
 
@@ -3160,6 +3160,7 @@ This positional convergence validates architectural causation. When external mon
 - **Undocumentable from either position:** Refusal rates, geographic penetration, cost patterns, implementation consistency, impact metrics
 
 The strongest evidence is not what observers can see—it is what they cannot see despite expertise, institutional access, and sustained effort. Yet this evidence simultaneously identifies the solution pathway: architects with institutional authority to redesign the system now have validated evidence of exactly what infrastructure needs building. Where external monitors can only document gaps, internal architects can mandate the data collection and systemic changes that close them.
+
 ---
 
 ### Layer 5 Key Findings: Summary for Quick Reference
@@ -3175,7 +3176,17 @@ The strongest evidence is not what observers can see—it is what they cannot se
 
 **The Layer 5 Contribution:** Transparency barriers documented in Layers 1–4 are independently observable from opposite institutional positions (external monitoring + internal reform architecture), using different methods and data sources, with convergence confirmed through positional mobility test. The reality gap operates at the architectural level—not as user misperception, external misunderstanding, or temporary implementation lag, but as structural feature of system design that prevents comprehensive observation regardless of who looks, from where, or with what institutional access.
 
-**Next Step:** Chapter 7.6 examines how these layers interact—mapping causal chains where dysfunction in one layer produces dysfunction in others, explaining why single-layer reforms prove insufficient, and establishing what evidence-based reform must address.
+---
+
+### The Critical Implication: Architectural Properties Are Directional
+
+The convergence documented in Findings 1-3 establishes that observational constraints are architectural—but architecture has directionality. The same systemic properties that currently prevent documentation of Obtaining pathway barriers could, theoretically, enable such documentation if structural conditions changed.
+
+**The L4→L5 barrier is decisive.** User experiences (L4) cannot inform external monitoring or internal reform (L5) because they generate no public record. When transcript refusals go unpublished, when costs remain undisclosed, when timelines aren't tracked—the Obtaining pathway stays systematically invisible to both TP and TIG/FRCTG despite their opposite institutional positions.
+
+This suggests a testable proposition: **if user experiences became systematically documentable, would observational capacity improve?** The JustAnswer forum analysis (Layer 4) provides partial evidence: when users made Obtaining barriers visible through online questions, patterns became analyzable that no official data source captured. Similarly, TP's monitoring capacity exists only for published judgments; where publication occurs, observation becomes possible.
+
+**Whether breaking the L4→L5 barrier would cascade through other layers—enabling the evidence-based accountability that TIG/FRCTG repeatedly attempted but could not achieve—is the question Chapter 6.6 addresses.**
 
 ---
 
@@ -3199,15 +3210,15 @@ The convergent evidence across external and internal observers strongly supports
 
 - **On internal records:** The analysis systematically examined TIG/FRCTG internal documents (n=36) specifically to test whether institutional access reveals data unavailable externally. The keyword analysis (0 hits for EX107, EX105, litigant access) and repeated acknowledgments of "limited data," stalled "scorecards," and evaluation "struggles" demonstrate that internal actors face the same data deficits as external observers.
 
-**The positional mobility test provides the strongest counter to alternative explanations:** When the same individual shifts between external observation (TP blog authorship) and internal reform design (TIG sub-group membership), they encounter identical data gaps from both institutional vantage points. This natural experiment controls for observer expertise, analytical approach, and interpretive frameworks—isolating system architecture as the causal variable. If resource constraints, privacy requirements, or internal record availability explained observational limits, institutional position would matter. It does not.
+The positional mobility test provides the strongest counter to alternative explanations: When the same individual shifts between external observation (TP blog authorship) and internal reform design (TIG sub-group membership), they encounter identical data gaps from both institutional vantage points. This natural experiment controls for observer expertise, analytical approach, and interpretive frameworks—isolating system architecture as the causal variable. If resource constraints, privacy requirements, or internal record availability explained observational limits, institutional position would matter. It does not.
 
-**Temporal Scope:** This analysis examines transparency observability during a specific period: TP blog output from November 2024 through October 2025, and TIG/FRCTG minutes from 2021 through 2024. The findings reflect the state of transparency infrastructure and reform implementation during this timeframe—specifically, the early months of PD12R implementation (January-October 2025). 
+**Temporal Scope:** This analysis examines transparency observability during a specific period: TP blog output from November 2024 through October 2025, and TIG/FRCTG minutes from 2021 through 2024. The findings reflect the state of transparency infrastructure and reform implementation during this timeframe—specifically, the early months of PD12R implementation (January-October 2025).
 
-If HMCTS subsequently publishes comprehensive data on transcript requests, if TIG develops systematic monitoring mechanisms, or if institutional data infrastructure improves, the observational constraints documented here may diminish. However, the structural pattern—that observers can only document what the system chooses to record—would remain valid even if what gets recorded changes. 
+If HMCTS subsequently publishes comprehensive data on transcript requests, if TIG develops systematic monitoring mechanisms, or if institutional data infrastructure improves, the observational constraints documented here may diminish. However, the structural pattern—that observers can only document what the system chooses to record—would remain valid even if what gets recorded changes.
 
 The architectural principle holds: observability depends on system design, not observer effort. This analysis establishes what was observable during the study period. Subsequent monitoring would be needed to assess whether architectural improvements occur.
 
-**Scope note:** This analysis treats architecture as the leading explanation because convergent evidence from multiple institutional positions, using different methods and data sources, consistently points to structural causation. Resource constraints and privacy protections undoubtedly play contributory roles in shaping what gets published and how monitoring work is prioritised, but they cannot account for the systematic pattern where both well-resourced internal reformers and external volunteer monitors face identical blind spots. 
+**Scope note:** This analysis treats architecture as the leading explanation because convergent evidence from multiple institutional positions, using different methods and data sources, consistently points to structural causation. Resource constraints and privacy protections undoubtedly play contributory roles in shaping what gets published and how monitoring work is prioritised, but they cannot account for the systematic pattern where both well-resourced internal reformers and external volunteer monitors face identical blind spots.
 
 Further research examining HMCTS/MOJ internal data systems, interviewing reform architects about resource allocation decisions, and comparing transparency infrastructure across jurisdictions would refine understanding of how architectural, resource, and privacy factors interact—but such research would specify rather than refute the fundamental finding that observational capacity is architecturally constrained.
 
@@ -3215,19 +3226,20 @@ Further research examining HMCTS/MOJ internal data systems, interviewing reform 
 
 ### The Layer 5 Contribution
 
-Layer 5 has established that the reality gap documented in Layers 1–4 is independently observable from two institutional positions (external monitoring and internal reform architecture) using different data sources and analytical methods. The positional mobility test—showing that an individual shifting between external observation and internal reform design encounters identical opacity from both vantage points—confirms that barriers are structurally embedded rather than position-dependent.
+Layer 5 has established that the reality gap documented in Layers 1–4 is independently observable from opposite institutional positions (external monitoring and internal reform architecture) using different data sources and analytical methods. The positional mobility test—showing that an individual shifting between external observation and internal reform design encounters identical opacity from both vantage points—confirms that barriers are structurally embedded rather than position-dependent.
 
-**Layer 5 has proven what observers cannot see and why this invisibility is architectural rather than accidental. Three questions now demand answers:**
+**The strongest evidence isn't what observers see; it's what they cannot see despite expertise, institutional access, and sustained effort.** When Britain's leading family court transparency organisation and the judiciary's own reform implementation bodies face identical blind spots, the dysfunction is proven architectural rather than experiential or positional.
 
-1. **Interaction effects:** If all five layers independently document the same barriers, how do these layers interact? Are failures isolated to individual levels, or do they compound across the system?
+**Layer 5 has proven what observers cannot see and why this invisibility is architectural.** Three questions now arise:
 
-2. **Causal mechanisms:** Why does convergence occur? Is it mere coincidence that external monitors, internal reformers, legal professionals, judges, and users all encounter identical obstacles—or do dysfunction patterns in one layer actively produce dysfunction in others?
+1. **Do failures compound or merely coexist?** All five layers document the same barriers independently—but does dysfunction in one layer actively produce dysfunction in others, or do they simply reflect parallel architectural flaws?
 
-3. **Reform implications:** If observational limits are structurally embedded, what does this mean for reform strategy? Can single-layer interventions succeed, or does the architecture demand coordinated cross-layer change?
+2. **Is convergence causal or coincidental?** External monitors, internal reformers, legal professionals, judges, and users all encounter identical obstacles—but is this because layers interact through causal chains, or because they independently reflect the same design failures?
 
-**Chapter 7.6 addresses these questions through cross-layer synthesis.** Where Layer 5 established that transparency barriers operate at the architectural level, Chapter 7.6 maps the causal chains linking institutional design voids (L1) to judicial accommodation (L2) to professional mediation gaps (L3) to user exclusion (L4) to meta-opacity (L5)—demonstrating why the reality gap is not merely documented across five layers but *produced* through their interaction. 
+3. **Can cascades reverse direction?** If layers interact to maintain dysfunction, could they interact to enable reform—and what would break the cycle?
 
-The synthesis reveals why single-layer fixes prove insufficient and what evidence-based reform must address to close the gap between formal transparency promises and operational realities.
+**Chapter 6.6 addresses these questions through cross-layer synthesis.** Where Layer 5 established that transparency barriers are architecturally determined and independently observable, Chapter 6.6 examines whether layer interaction patterns reveal causal chains or parallel dysfunction—and whether the same architectural properties that maintain opacity could enable transparency if critical barriers were broken. The synthesis will test whether the convergent evidence across five layers reflects self-reinforcing architectural dysfunction—and if so, whether the system's tight coupling represents a lock that prevents reform or a mechanism that could enable it.
+
 ---
 ### Footnotes
 
