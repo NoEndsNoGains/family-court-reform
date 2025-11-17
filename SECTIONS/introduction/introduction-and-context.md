@@ -1,4 +1,3 @@
-
 > **This is a living, unfinished draft.**  
 > It contains known gaps, typos, logical contradictions and areas needing evidence.
 > I currently reviewed Chapter 7 (Layer 6: Children) and Layer 5: Observers & Architects (Subchapter 6.5)
@@ -11,7 +10,7 @@
 > - [Open an Issue (sign in required)](https://github.com/NoEndsNoGains/family-court-reform/issues/new/choose) to flag a mistake  
 > - [Fork & submit a Pull Request (sign in required)](https://github.com/NoEndsNoGains/family-court-reform/fork) with your improved version  
 > - [See all open tasks →](https://github.com/NoEndsNoGains/family-court-reform/issues?q=is%3Aopen+is%3Aissue)  
-> 
+
 > Every contribution is credited in the [Revision Log](./CHANGELOG.md).
 
 ## Table of Contents
@@ -35,10 +34,10 @@
 - Children's Exclusion Across All Five Layers
 
 **PART IV: SOLUTIONS & ROADMAP (Chapters 8-10)**
-8. Procedural Interventions (Within Existing Framework)
-9. Paradigmatic Reforms (Structural Changes)
-10. Implementation Roadmap & Conclusions
 
+8. Procedural Interventions (Within Existing Framework)
+10. Paradigmatic Reforms (Structural Changes)
+12. Implementation Roadmap & Conclusions
 
 
 # GIVE ME A BLOODY TRANSCRIPT  
