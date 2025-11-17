@@ -6573,6 +6573,151 @@ Updated quarterly
 
 **Next**: Chapter 9 elevates to paradigmatic analysis (parent recording, constitutional validity, 18+ access, publication governance) and explains why even paradigmatic reforms face resistance from self-regulating systems (§9.5 epistemological critique). Chapter 10 then synthesizes all three tiers—procedural (Ch 8), structural (Ch 9 §9.2-9.4, 9.6), and epistemological (Ch 9 §9.5)—into unified roadmap with meta-protection framework."
 
+## 8.1.7 Automated Monitoring and Accountability Infrastructure
+
+**Problem:** TIG guidance establishes publication targets (4-10 judgments annually by role) but provides no enforcement mechanism. No data exists on whether judges meet targets, which judgments are published, or whether publication serves institutional accountability or judicial reputation management.
+
+**Proposal:** Establish automated monitoring infrastructure combining (1) real-time tracking, (2) transparent public reporting, and (3) light-touch accountability—balancing professional autonomy with institutional transparency.
+
+### 8.1.7.1 Automated Publication Tracking
+
+**Technical implementation:**
+
+- **BAILII upload integration:** When judgment uploaded, automated system logs: date, court, judge identifier (anonymized in public dashboard but tracked internally), case type, publication initiator (judge, party, media, researcher)
+- **Cross-reference with judicial assignments:** HMCTS already tracks which judges are assigned to which courts/case types. Matching BAILII uploads against assignments identifies:
+  - Judges meeting/exceeding publication targets
+  - Judges consistently below targets (flagged for administrative review)
+  - Courts with systematic underperformance
+  - Case types systematically under-published
+
+**No manual burden:** Judges already upload to BAILII/FCL. This proposal merely **tracks** existing uploads rather than imposing new requirements.
+
+### 8.1.7.2 Publication Initiator Tracking
+
+**Critical addition beyond TIG current framework:** Track **who** initiated publication:
+
+| Initiator Category | What It Reveals |
+|-------------------|----------------|
+| Judge (voluntary) | Professional norm compliance; judicial interpretation of "serious case" criteria |
+| Judge (mandatory case) | Whether mandatory publication categories actually translate to publication |
+| Party (uncontested) | User-initiated transparency; families seeking visibility |
+| Party (contested) | Accountability-driven requests; potential challenge to judicial decisions |
+| Media | External oversight function; cases attracting public interest |
+| Researcher | Academic/policy attention; systemic pattern documentation |
+
+**Why this matters:** Distinguishes judge-curated transparency (potential selection bias toward "good" judgments) from demand-driven transparency (accountability mechanism capturing cases judges might prefer to keep hidden).
+
+**Implementation:** EX107 Section F (proposed §8.1.4) includes publication flag. When granted, system logs initiator type. For retrospective C2 applications, form update captures initiator category.
+
+### 8.1.7.3 Transparent Public Dashboards
+
+**Quarterly publication reports (publicly accessible):**
+
+**National overview:**
+- Total judgments published (judge-initiated vs. user-initiated)
+- Publication rate by judicial role (circuit judges, High Court judges, etc.)
+- TIG target compliance (percentage of judges meeting expected publication rates)
+
+**Regional breakdown:**
+- Publication rates by DFJ area
+- Identification of geographic disparities (e.g., some regions publishing 3x more than others—why?)
+
+**Case type analysis:**
+- Which case types published most/least (care orders, contact disputes, medical treatment, etc.)
+- Whether routine cases (where errors more common) published or only "serious" cases
+
+**Publication initiator distribution:**
+- Percentage judge-initiated vs. user-initiated
+- Refusal rates for user-initiated requests
+- Reasoning patterns for refusals (where documented)
+
+**Why public dashboards:**
+- Creates accountability through visibility
+- Enables external observers (TP, researchers, advocacy groups) to identify patterns
+- Allows TIG/FRCTG to measure reform effectiveness
+- Provides evidence base for resource allocation and training priorities
+
+### 8.1.7.4 Light-Touch Accountability Mechanism
+
+**Annual performance reviews include publication compliance as one metric among many:**
+
+- **Not punitive:** No sanctions for individual judges below target in specific year (accounts for caseload variations, illness, administrative duties)
+- **Pattern-focused:** Persistent underperformance (e.g., 3+ consecutive years significantly below target) triggers administrative support inquiry—"How can we help you meet publication expectations?"
+- **Visible, not coercive:** Publication compliance is known criterion, discussed in reviews, but balanced against other factors (caseload complexity, training contributions, mentoring junior judges)
+
+**Proven model:** Healthcare quality metrics and educational accountability systems use similar approaches:
+- Track performance data transparently
+- Identify outliers (both high and low performers)
+- Offer support rather than punishment for persistent underperformance
+- Reserve sanctions for refusal to engage with support mechanisms
+
+### 8.1.7.5 Cost and Feasibility
+
+**Technical infrastructure: Low**
+- BAILII already provides upload platform
+- HMCTS already tracks judicial assignments
+- Cross-referencing = database query, not new data collection
+- Dashboard generation = automated reporting from existing database
+
+**Administrative burden: Minimal**
+- Judges already upload judgments voluntarily (no new requirement)
+- Dashboard generation automated (quarterly cron job)
+- Performance review discussion adds ~5 minutes to annual reviews
+
+**Comparison:** This proposal costs less than TIG's proposed Anonymization Unit (£286k/year for manual redaction) while providing infrastructure that makes that unit's work measurable and accountable.
+
+### 8.1.7.6 What This Infrastructure Enables
+
+**For external observers (TP):**
+- Can finally measure whether TIG reforms translate to increased publication
+- Can identify which case types, courts, or judges systematically under-publish
+- Can distinguish judge-curated transparency from demand-driven accountability
+
+**For internal reformers (TIG/FRCTG):**
+- Can measure effectiveness of publication guidance and training
+- Can identify where additional support needed (courts, judicial roles, case types)
+- Can justify resource allocation based on data rather than anecdote
+
+**For judges:**
+- Clear expectations about publication norms
+- Transparent feedback on performance relative to peers
+- Support mechanisms if struggling to meet targets
+
+**For users:**
+- Evidence base for challenging restrictive publication practices
+- Visibility into whether their case type typically published
+- Data showing whether user-initiated requests succeed or face systematic refusal
+
+### 8.1.7.7 Addressing "Judges Publishing Their Best 5" Problem
+
+**Your insight captured:** If judges know they must publish 5 judgments, they'll choose carefully—showcasing sophisticated reasoning while leaving 295 routine judgments (where errors more likely) unpublished.
+
+**Dual-track solution:**
+
+1. **Judge-initiated publication (professional norm):** Judges select judgments they consider important, fulfilling TIG guidance expectations
+
+2. **User-initiated publication (accountability mechanism):** Parties, media, researchers can request publication of cases judges might prefer to keep hidden—especially when challenging unlawful decisions or documenting problematic patterns
+
+**Dashboard tracks both:**
+- Reveals whether judge-initiated publications cluster on "showcase" cases (novel law, complex facts, sophisticated reasoning)
+- Shows whether user-initiated requests target different case types (routine applications, unrepresented parties, potential errors)
+- Enables comparison: Do user-initiated requests reveal different quality/reasoning patterns than judge-selected publications?
+
+**The accountability lever:** If dashboard data shows systematic divergence (e.g., user-initiated publications reveal significantly more errors or weaker reasoning than judge-selected publications), this provides evidence that judge-controlled publication alone creates selection bias undermining systemic learning. This evidence justifies expanding demand-driven transparency mechanisms.
+
+### 8.1.7.8 Implementation Timeline
+
+**Phase 1 (Months 1-6):** Establish BAILII upload tracking and judicial assignment cross-referencing
+**Phase 2 (Months 7-12):** Implement publication initiator categorization and begin data collection
+**Phase 3 (Year 2):** Launch public dashboard with quarterly reporting
+**Phase 4 (Year 2+):** Integrate publication compliance into annual performance reviews
+
+**Pilot approach:** Test in 3-5 DFJ areas before national rollout, allowing refinement based on judicial feedback and technical challenges.
+
+---
+
+**Cross-reference to paradigmatic reform:** This automated infrastructure provides the evidence base that Chapter 9's user publication rights argument requires. Demand-driven transparency cannot function without systematic tracking of who requests publication, what outcomes occur, and whether refusals create systematic bias. Section 8.1.7 builds the measurement infrastructure that makes Chapter 9's paradigmatic shift operationally feasible.
+
 
 # Chapter 9: Paradigmatic Questions — Beyond Procedural Reform
 ---
