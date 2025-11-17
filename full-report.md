@@ -27,34 +27,14 @@
 > 
 > All contributions credited in the [Revision Log](./CHANGELOG.md).
 
-## Table of Contents
-
-**PART I: THE PROBLEM & FRAMEWORK (Chapters 1-5)**
-1. The Crises: Symptoms of Systemic Failure
-2. Transparency Evolution: Policy Reforms to Date  
-3. Theoretical Grounding: Transcripts as System Intelligence
-4. Logical Mapping: From Crises to Transcript Solutions
-5. Empirical Testing: The Data Void & Research Design
-
-**PART II: THE FIVE-LAYER ANALYSIS (Chapter 6)**
-- Layer 1: Institutional Design (Procedural Architecture)
-- Layer 2: Judicial Practice (Gatekeeping & Accommodation)
-- Layer 3: Professional Mediation (Solicitors/Barristers)
-- Layer 4: User Experience (Litigants in Person)
-- Layer 5: External Observation & Internal Reform
-- Cross-Layer Synthesis: How Barriers Cascade
-
-**PART III: THE MISSING VOICE (Chapter 7)**
-- Children's Exclusion Across All Five Layers
-
-**PART IV: SOLUTIONS & ROADMAP (Chapters 8-10)**
-
-8. Procedural Interventions (Within Existing Framework)
-10. Paradigmatic Reforms (Structural Changes)
-12. Implementation Roadmap & Conclusions
 
 
+---
 
+
+>>>> # GIVE ME A BLOODY TRANSCRIPT  
+## *A Road to Family Court Reform*
+---
 
 ## Executive Summary
 
@@ -271,12 +251,7 @@ AND OTHER CHILDREN ARE PROTECTED BY PATTERNS BECOMING VISIBLE
 **But only if we remember: this isn't about the mother. It's about the children. It always was.**
 
 
----
 
-
->>>> # GIVE ME A BLOODY TRANSCRIPT  
-## *A Road to Family Court Reform*
----
 
 ## Table of Contents (Overview)
 
