@@ -3362,15 +3362,14 @@ Layer 5 completes the evidential foundation; Chapter 8 converts it into actionab
 
 Layer 5 asks a foundational question: **Can transparency in the family courts be meaningfully observed and documented?** More precisely, can transparency be observed in ways that matter to users? If observable outputs do not reflect user access or experience, the system may appear transparent while failing its intended purpose.
 
-Here, **'user experience' refers to the barriers documented in Layers 1–4—what families, litigants, and professionals encounter when engaging with transparency mechanisms.** Those layers showed that institutional design creates voids, judicial practice accommodates dysfunction, professional mediation sustains inequality, and users face exclusion.
+Here, **'user experience'** refers to the barriers documented in Layers 1–4—what families, litigants, and professionals encounter when engaging with transparency mechanisms. Those layers showed that institutional design creates voids, judicial practice accommodates dysfunction, professional mediation sustains inequality, and users face exclusion.
 
-The analytical premise: If external watchdogs and internal reform architects both struggle to see what users experience, this suggests constraints arise not from observer position but from system architecture.
+The analytical premise: if external watchdogs and internal reform architects both struggle to see what users experience, constraints likely arise from system architecture rather than observer position.
 
 To test this, the analysis compares two observer positions at opposite ends of the institutional spectrum:
 
-**The Transparency Project (TP)** — Britain's leading independent family court transparency monitor, operating without institutional access.[^TP]
-
-**Internal reform bodies (TIG and FRCTG)** — The Transparency Implementation Group (TIG, established 2021) and Financial Remedies Consultative & Transparency Group (FRCTG) are parallel bodies addressing transparency in children cases and financial remedy cases respectively. Both comprise judges, MoJ/HMCTS officials, and legal experts with decision-making authority. They are analysed together because the internal reform documents include minutes from both bodies, which conduct parallel transparency reform work with overlapping membership.[^TIG_FRCTG]
+- **The Transparency Project (TP)** — Britain's leading independent family court transparency monitor, operating without institutional access.[^TP]
+- **Internal reform bodies (TIG and FRCTG)** — the Transparency Implementation Group (TIG, established 2021) and Financial Remedies Consultative & Transparency Group (FRCTG) are parallel bodies addressing transparency in children cases and financial remedy cases respectively. Both comprise judges, MoJ/HMCTS officials, and legal experts with decision-making authority. They are analysed together because the internal reform documents include minutes from both bodies, which conduct parallel transparency reform work with overlapping membership.[^TIG_FRCTG]
 
 This external/internal comparison probes a central question: **Does institutional position make any difference to the ability to observe dysfunction?**
 
@@ -3395,6 +3394,7 @@ Analysis of TP's full blog output (n=67 posts, November 2024–October 2025) sho
 ### What External Observers Can See
 
 Of the 67 posts, 36 (54%) focus directly on transparency.[^TP_Analysis] A striking pattern emerges: all transparency-focused TP output concerns the Publication pathway; the Obtaining pathway—transcripts, file access, cost barriers, or refusals—is systematically invisible. This Publication/Obtaining asymmetry is not incidental; it reflects an architectural ceiling on observation that recurs across internal and external monitoring.
+
 These 36 posts divide into four functions:
 
 #### Table 6.5.1: Key Functions of the Transparency Project's (TP) Blog Posts on Family Court Transparency (November 2024 – October 2025)
@@ -3484,6 +3484,8 @@ Together, these blind spots point to a deeper issue: the architecture of the sys
 
 ### Structural Source of the Asymmetry
 
+#### Table 6.5.2: Differential Documentability Between Publication and Obtaining Pathways
+
 | Pathway | What Observers Can Document | Why |
 |---------|----------------------------|-----|
 | **Publication** | Published judgments, transparency orders, PD12R patterns, judicial reasoning | Hearings occur in open court → rulings are published → grants appear on BAILII → refusals sometimes appear if appealed |
@@ -3544,6 +3546,8 @@ The Transparency Implementation Group (TIG) and Financial Remedies Consultative 
 ### 6.5.3.1 TIG/FRCTG Operational Focus: Reform Design vs. Execution Monitoring
 
 Internal reform documents (**n=36**, spanning TIG and FRCTG meetings and sub-group sessions) reflect the focus of reform efforts. The distribution below characterises dominant themes:
+
+#### Table 6.5.3: TIG/FRCTG Operational Focus by Reform Theme (2021-2024)
 
 | Sub-Group Focus | Approximate Coverage | Killer Example |
 |-----------------|---------------------|----------------|
@@ -3634,11 +3638,147 @@ This reflects a common organisational failure: measuring what is easiest to coun
 **The recursive failure:** Transparency reforms lack transparency about their own effectiveness. When reformers set targets but cannot report whether they're met, establish no consequences for non-compliance, and measure institutional activities rather than user outcomes, the architectural dysfunction becomes self-perpetuating.
 
 ---
+
+## 6.5.6 Layer 5's Architectural Failures: The Observer Who Cannot Observe Itself
+
+The preceding sections (6.5.1–6.5.3) documented what external observers and internal reformers cannot see: the 70% visibility deficit produced by Layers 1–4.
+
+But Layer 5 reveals something deeper than confirming that Layers 1–4 create observation barriers.
+
+Layer 5 exposes that the transparency and reform infrastructure replicates the same design failures documented in Layers 1–4. **Layer 5 is building a mirror with the same distortions it is trying to correct.** It does not simply observe opacity—it reproduces it.
+
+---
+
+#### 6.5.6.1 TIG/FRCTG Goal Architecture (Parallel to DF-15: No Integrated Data)
+
+**Layer 1 Problem (DF-15):**  
+Transcript system issues guidance without data infrastructure—no central database, no performance tracking.
+
+**Layer 5 Parallel:**  
+TIG/FRCTG issue publication targets (e.g., "4–10 judgments annually") without mechanisms to operationalise them:
+- No system tracking BAILII uploads against judicial assignments
+- No reporting showing which judges meet/miss targets
+- No enforcement pathway
+- No baseline to assess whether targets are realistic
+
+**Parallel:** Both systems issue guidance without infrastructure to monitor compliance.
+
+**Consequence:**  
+Layer 1 produces "illusion of process"; Layer 5 produces "illusion of accountability."
+
+---
+
+#### 6.5.6.2 Reform Body Opacity (Parallel to DF-9: No Refusal Appeal Route)
+
+**Layer 2 Problem (DF-9):**  
+Judges refuse transcript access without written reasons; no appeal route.
+
+**Layer 5 Parallel:**  
+Reform bodies exhibit their own opacity:
+- Membership restricted to legal professionals
+- Consultations forbid scrutiny of legal foundations
+- No mechanism to challenge TIG/FRCTG decisions
+- Aggregate-only reporting shields specific choices from scrutiny
+
+**Parallel:** Both systems exercise discretion without accountability or visible reasoning.
+
+**Consequence:**  
+Layer 5 mirrors Layer 2's "gatekeeping without scrutiny."
+
+---
+
+#### 6.5.6.3 Aggregate Reporting Architecture (Parallel to DF-14: No Subject Indexing)
+
+**Layer 1 Problem (DF-14):**  
+Judgments technically public but practically undiscoverable due to lack of metadata.
+
+**Layer 5 Parallel:**  
+TIG/FRCTG reports give only totals, never granularity:
+- No court-level variation
+- No judge-level compliance data
+- No case-type disparities
+- No geographic penetration metrics
+
+FOI replies confirm "no data held". Pilot evaluation documents show missing dashboards and stalled metrics.
+
+**Parallel:** Information is "published" but still inaccessible.
+
+**Consequence:**  
+Just as judgments are "public but undiscoverable," reforms are "announced but unmeasurable."
+
+---
+
+#### 6.5.6.4 The Self-Regulation Trap (Parallel to Layer 2's Accommodation Dynamic)
+
+**Layer 2 Problem:**  
+Judges accommodate dysfunction rather than escalating it.
+
+**Layer 5 Parallel:**  
+TIG/FRCTG reproduce accommodation:
+- Preserve judicial discretion
+- Avoid individual accountability
+- Restrict consultation scope
+- Maintain professional control of reforms
+
+Not conspiracy—structural inevitability: Reform bodies comprised of institutional actors design reforms that protect institutional prerogatives even when well-intentioned.
+
+**Consequence:**  
+The system cannot observe its own limitations because its observers are embedded within it.
+
+---
+
+#### Table 6.5.4: Layer 5 Architectural Failures Mirror Layer 1–4 Problems
+
+| Layer 1-4 Problem | Layer 5 Parallel | Consequence |
+|-------------------|------------------|-------------|
+| **DF-1/DF-15:** Form-guidance disconnect; no integrated data | TIG guidance without enforcement infrastructure<br>*Example: Publication targets set 2022; no judge-level compliance data 2022-2025* | Targets aspirational, not operational |
+| **DF-9:** No refusal appeal route | No mechanism to challenge TIG/FRCTG decisions<br>*Example: Subgroup scope restricted—cannot examine "legal framework"* | Reform bodies self-regulate without external check |
+| **DF-14:** No subject indexing | Aggregate-only reporting, no drill-down<br>*Example: Know total judgments published; don't know which courts/judges/case types* | Patterns invisible, accountability avoided |
+| **DF-15:** No integrated data | FOI reveals "no data held" on reform effectiveness<br>*Example: Cannot answer "How many transcript requests refused?"—no tracking system* | Observers cannot measure whether reforms work |
+| **Layer 2:** Accommodation dynamic | TIG/FRCTG accommodate judicial resistance<br>*Example: Approval timelines remain untimed despite documented 77+ day delays* | Reform preserves rather than challenges institutional control |
+
+---
+
+#### 6.5.6.5 Why Layer 5's Recursive Failure Matters
+
+Layer 5 operates on two levels:
+
+**Level 1 — Observation of Layers 1–4**  
+External observers document 70% visibility deficit; internal reformers independently identify same barriers; both positions converge on identical blind spots.
+
+**Level 2 — Failure to Observe Itself**  
+Layer 5 replicates the same architectural defects: missing enforcement infrastructure, missing drill-down data, missing accountability pathways, missing evaluation capacity.
+
+**Result:** Transparency reforms cannot measure themselves. Architects cannot assess whether their own reforms work. They are using the same design principles that created opacity to try to fix opacity.
+
+---
+
+#### 6.5.6.6 Implications for Chapters 8–10
+
+Solutions must address three levels simultaneously:
+
+**Chapter 8 (Procedural Interventions):** Must build missing infrastructure
+- Automated approval monitoring
+- Public dashboards
+- Enforceable targets
+
+**Chapter 9 (Paradigmatic Reform):** Must break the self-regulation trap
+- External accountability
+- Structural independence
+- Cultural change
+
+**Chapter 10 (Roadmap):** Must show how fixing Layer 5 enables learning cycles
+- Patterns become visible
+- TIG/FRCTG can diagnose
+- System becomes capable of self-correction
+
+---
+
 ## 6.5.4 Layer 5 Conclusion: The Architectural Ceiling on Observation
 
-Layer 5 demonstrates that transparency barriers are structurally embedded in the system's design, not merely a matter of user misunderstanding or external misperception. When Britain's leading family court transparency organisation—staffed by legal professionals, analysing published case law, monitoring reforms—encounters the same opacity when trying to document system performance, it validates that the dysfunction is structural rather than experiential.
+Layer 5 demonstrates that transparency failures are structural, not experiential. When Britain's leading external transparency monitors and the judiciary's own reform architects encounter the same visibility barriers, through different methods, from opposite institutional positions, the evidence becomes irrefutable:
 
-More powerfully: when the judiciary's own reform implementation bodies—TIG and FRCTG, comprising judges, MoJ/HMCTS officials, and legal experts—face comparable barriers when designing and monitoring transparency reforms, the evidence strongly points to systemic, architectural constraints rather than merely positional limits.
+The system is designed in ways that prevent anyone—user, researcher, or judge—from observing how it functions.
 
 ---
 
@@ -3676,22 +3816,46 @@ This asymmetry creates dual exclusion:
 
 The pathways where barriers are highest are precisely those where accountability monitoring is weakest. Obtaining barriers persist not despite reform attention, but absent any institutional recognition that obtaining constitutes a problem. When transcript access dysfunction is not conceptualised as systemic failure, no reform architecture addresses it.
 
-#### Finding 3: Positional Convergence Confirms Architectural Causation—and Identifies Reform Capacity
+#### Finding 3: Positional Convergence Confirms Architectural Causation—and Reveals Dual-Level Dysfunction
 
 External observers with legal expertise cannot answer fundamental accountability questions: How many transcript requests are refused? What do transcripts typically cost? What proportion of PD12R-eligible cases use transparency mechanisms?
 
-Critically, internal reform architects face identical constraints. TIG/FRCTG minutes acknowledge "limited data," scorecards stall, and evaluations "struggle" with engagement metrics. Yet TIG/FRCTG members are not merely observers—they are the architects designing transparency reforms. They draft practice directions, design pilot schemes, and establish monitoring frameworks. They cannot systematically assess whether their own reforms are adopted, effective, or reaching intended users.
+**Critically, internal reform architects face identical constraints.** TIG/FRCTG minutes acknowledge "limited data," scorecards stall, and evaluations "struggle" with engagement metrics. Yet TIG/FRCTG members are not merely observers—they are the architects designing transparency reforms. They draft practice directions, design pilot schemes, and establish monitoring frameworks. They cannot systematically assess whether their own reforms are adopted, effective, or reaching intended users.
 
-This positional convergence validates architectural causation. When external monitors and internal reformers face identical observational constraints despite radically different institutional positions and access levels, the transparency deficit is structural, not positional:
+**The positional mobility test isolates causation:** When the same individual shifts between external observation (TP blog authorship) and internal reform design (TIG sub-group membership), they encounter identical data gaps from both institutional vantage points. When institutional position changes but observational constraints remain constant, system architecture is isolated as causal variable.
 
-- **Documentable from both positions:** Published judgments, announced reforms, guidance drafts
-- **Undocumentable from either position:** Refusal rates, geographic penetration, cost patterns, implementation consistency, impact metrics
+**But Section 6.5.6 revealed this architectural causation operates at two levels:**
 
-The strongest evidence is not what observers can see—it is what they cannot see despite expertise, institutional access, and sustained effort. Yet this evidence simultaneously identifies the solution pathway: architects with institutional authority to redesign the system now have validated evidence of exactly what infrastructure needs building. Where external monitors can only document gaps, internal architects can mandate the data collection and systemic changes that close them.
+**Level 1: Observation of Layers 1-4** (what §6.5.1-6.5.3 documented)
+- External observers document 70% visibility deficit
+- Internal reformers identify same barriers
+- Both positions converge on identical blind spots
+- **Documentable from both:** Published judgments, announced reforms, guidance drafts
+- **Undocumentable from either:** Refusal rates, cost patterns, geographic penetration, impact metrics
+
+**Level 2: Self-Observation Failure** (what §6.5.6 added)
+- Reform infrastructure exhibits architectural failures parallel to Layers 1-4
+- TIG/FRCTG lack enforcement mechanisms (parallel to DF-15: no integrated data)
+- Reform bodies self-regulate without external check (parallel to DF-9: no refusal appeal route)
+- Aggregate-only reporting prevents accountability (parallel to DF-14: no subject indexing)
+- **Recursive failure:** Observers embedded in observed system cannot detect own limitations
+
+**This dual-level finding transforms the evidence:**
+
+**Not merely:** "Observers cannot see dysfunction" (Level 1)
+
+**But also:** "Observers cannot measure whether their attempts to fix dysfunction are working" (Level 2)
+
+**Implication:** Cannot fix broken system with broken tools. Chapters 8-10 must address:
+1. The observed system's dysfunction (Layers 1-4 specific problems)
+2. The observation infrastructure's dysfunction (Layer 5's recursive failure)
+3. The accountability gap (external pressure essential to break self-regulation trap—Chapter 9 §9.7)
 
 ---
 
 ### Layer 5 Key Findings: Summary for Quick Reference
+
+#### Table 6.5.5: Layer 5 Key Findings Summary
 
 | Finding | Evidence | Implication |
 |---------|----------|-------------|
@@ -3699,8 +3863,8 @@ The strongest evidence is not what observers can see—it is what they cannot se
 | **Core Evidence:** | • TP: 100% Publication focus (n=67 posts)<br>• TIG/FRCTG: ~85% Publication focus (n=36 docs)<br>• Both: 0% systematic Obtaining coverage<br>• Keyword analysis: 94 hits for Publication terms, 0 hits for EX107/EX105/litigant access | System architecture forces all observers—regardless of position—to focus on what's visible (Publication) while rendering invisible what's hidden (Obtaining) |
 | **Finding 2: Pathway Asymmetry Validates Framework** | All transparency work clusters on Publication pathway despite Obtaining pathway causing greatest user barriers | Validates Layer 1 two-pathway framework; reveals differential documentability as architectural feature |
 | **Core Evidence:** | • Users struggle most with Obtaining (costs, delays, refusals)<br>• Observers struggle most to document Obtaining (no data exists)<br>• Pathways with highest barriers = lowest accountability monitoring | Documentability constraint creates dual exclusion: users cannot access + observers cannot measure access failures |
-| **Finding 3: Positional Convergence Confirms Architectural Causation** | Same individual encounters identical data gaps when shifting between external observation (TP) and internal reform (TIG); TIG/FRCTG possess both knowledge of gaps and authority to fix them | Opacity is architectural, not positional—barriers persist regardless of observer position; internal architects can redesign the system |
-| **Core Evidence:** | • Both positions document: published judgments, announced reforms, guidance drafts<br>• Neither position documents: refusal rates, cost patterns, geographic penetration, impact metrics<br>• TIG/FRCTG acknowledge "limited data," "scorecards" stall, evaluation "struggles" | When institutional position changes but observational constraints remain constant, system architecture is isolated as causal variable; architects have power to mandate missing infrastructure |
+| **Finding 3: Positional Convergence Confirms Architectural Causation—and Reveals Dual-Level Dysfunction** | Same individual encounters identical data gaps when shifting between external observation (TP) and internal reform (TIG); TIG/FRCTG possess knowledge of gaps and authority to fix them but face same constraints; Section 6.5.6 revealed two-level operation | • Opacity is architectural, not positional—barriers persist regardless of observer position<br>• Internal architects can redesign system BUT currently lack tools to do so effectively<br>• Recursive failure: Reform architecture replicates problems it's supposed to fix<br>• Must address BOTH observed dysfunction (L1-4) AND observer dysfunction (L5) |
+| **Core Evidence:** | **Level 1 (Observation of L1-4):**<br>• Both positions document: published judgments, announced reforms, guidance drafts<br>• Neither position documents: refusal rates, cost patterns, geographic penetration, impact metrics<br>• TIG/FRCTG acknowledge "limited data," "scorecards" stall, evaluation "struggles"<br><br>**Level 2 (Self-Observation Failure):**<br>• Reform infrastructure exhibits parallel failures: no enforcement mechanisms (parallel to DF-15), self-regulation without external check (parallel to DF-9), aggregate-only reporting (parallel to DF-14)<br>• Observers embedded in observed system cannot detect own limitations | When institutional position changes but observational constraints remain constant, system architecture is isolated as causal variable. Architects have power to mandate missing infrastructure but currently lack the tools (enforcement, drill-down data, external accountability) to do so effectively. Breaking recursive failure requires external pressure (Chapter 9 §9.7) |
 
 **The Layer 5 Contribution:** Transparency barriers documented in Layers 1–4 are independently observable from opposite institutional positions (external monitoring + internal reform architecture), using different methods and data sources, with convergence confirmed through positional mobility test. The reality gap operates at the architectural level—not as user misperception, external misunderstanding, or temporary implementation lag, but as structural feature of system design that prevents comprehensive observation regardless of who looks, from where, or with what institutional access.
 
@@ -3710,11 +3874,34 @@ The strongest evidence is not what observers can see—it is what they cannot se
 
 The convergence documented in Findings 1-3 establishes that observational constraints are architectural—but architecture has directionality. The same systemic properties that currently prevent documentation of Obtaining pathway barriers could, theoretically, enable such documentation if structural conditions changed.
 
-**The L4→L5 barrier is decisive.** User experiences (L4) cannot inform external monitoring or internal reform (L5) because they generate no public record. When transcript refusals go unpublished, when costs remain undisclosed, when timelines aren't tracked—the Obtaining pathway stays systematically invisible to both TP and TIG/FRCTG despite their opposite institutional positions.
+**Two compounding barriers maintain opacity:**
 
-This suggests a testable proposition: **if user experiences became systematically documentable, would observational capacity improve?** The JustAnswer forum analysis (Layer 4) provides partial evidence: when users made Obtaining barriers visible through online questions, patterns became analyzable that no official data source captured. Similarly, TP's monitoring capacity exists only for published judgments; where publication occurs, observation becomes possible.
+**Barrier 1: L4→L5 (User Experience → Observation)**  
+User experiences cannot inform external monitoring or internal reform because they generate no public record. When transcript refusals go unpublished, costs remain undisclosed, and timelines aren't tracked—the Obtaining pathway stays systematically invisible to both TP and TIG/FRCTG despite their opposite institutional positions.
 
-**Whether breaking the L4→L5 barrier would cascade through other layers—enabling the evidence-based accountability that TIG/FRCTG repeatedly attempted but could not achieve—is the question Chapter 6.6 addresses.**
+**Barrier 2: L5 Recursive Failure (Observation → Reform)**  
+Even when external observers or internal reformers identify problems, Layer 5 lacks infrastructure to respond effectively. Reform bodies acknowledge dysfunction (TIG/FRCTG minutes document "limited data," stalled "scorecards," evaluation "struggles") but cannot measure whether their own reforms work. Section 6.5.6 showed this is structural: reform architecture exhibits the same design failures (no enforcement mechanisms, aggregate-only reporting, self-regulation without external check) that it's tasked with fixing in Layers 1-4.
+
+**Result:** A closed loop where dysfunction persists despite acknowledgment:
+```
+Users experience barriers (L3-4)
+  ↓
+Barriers generate no public record (L4→L5 barrier)
+  ↓
+Observers cannot document patterns (L5 Level 1: observation blocked)
+  ↓
+Reform bodies cannot measure effectiveness (L5 Level 2: recursive failure)
+  ↓
+Reforms announced without accountability infrastructure
+  ↓
+[Loop repeats - dysfunction continues]
+```
+
+**This suggests a testable proposition:** If user experiences became systematically documentable (breaking Barrier 1), would observational capacity improve? The JustAnswer forum analysis (Layer 4) provides partial evidence: when users made Obtaining barriers visible through online questions, patterns became analyzable that no official data source captured. Similarly, TP's monitoring capacity exists only for published judgments; where publication occurs, observation becomes possible.
+
+**But breaking L4→L5 alone is insufficient if L5's recursive failure persists.** Even with perfect user data, reform bodies lacking enforcement infrastructure, operating through aggregate-only reporting, and self-regulating without external accountability would likely reproduce the same accommodation patterns documented in Layer 2.
+
+**Whether breaking BOTH barriers would cascade through all layers—enabling the evidence-based accountability that TIG/FRCTG repeatedly attempted but could not achieve—is the question Chapter 6.6 addresses.**
 
 ---
 
@@ -3769,47 +3956,44 @@ Layer 5 has established that the reality gap documented in Layers 1–4 is indep
 **Chapter 6.6 addresses these questions through cross-layer synthesis.** Where Layer 5 established that transparency barriers are architecturally determined and independently observable, Chapter 6.6 examines whether layer interaction patterns reveal causal chains or parallel dysfunction—and whether the same architectural properties that maintain opacity could enable transparency if critical barriers were broken. The synthesis will test whether the convergent evidence across five layers reflects self-reinforcing architectural dysfunction—and if so, whether the system's tight coupling represents a lock that prevents reform or a mechanism that could enable it.
 
 ---
+
 ### Footnotes
 
 [^TP]: The Transparency Project, https://www.transparencyproject.org.uk
 
-[^TIG_FRCTG]: All internal reform documents analysed in this chapter are drawn from the Judiciary.uk *Transparency Implementation Group – Minutes and Sub-Group Minutes* archive: https://www.judiciary.uk/guidance-and-resources/transparency-implementation-group-minutes-and-sub-group-minutes/. The archive contains meeting minutes, sub-group papers, and related documents for both the Transparency Implementation Group (TIG) and the Financial Remedies Consultative & Transparency Group (FRCTG). TIG (established 2021) addresses transparency in children cases; FRCTG addresses transparency in financial remedy cases. They are treated together because their minutes form a single combined documentary record of internal transparency reform, with overlapping membership and parallel workstreams.
+[^TIG_FRCTG]: All internal reform documents analysed in this chapter are drawn from the Judiciary.uk *Transparency Implementation Group – Minutes and Sub-Group Minutes* archive: https://www.judiciary.uk/guidance-and-resources/transparency-implementation-group-minutes-and-sub-group-minutes/
 
 [^TP_Corpus]: Full corpus with dates and links: [TP Blog Posts Nov 2024 – Oct 2025](https://github.com/NoEndsNoGains/family-court-reform/blob/main/DATA/layer5_NGOs_media/TP%20Links%20to%20Blog%20Posts%20Nov%202024%20-%20Oct%2025.md)
 
-[^TP_Analysis]: Full blog corpus analysis with post IDs, dates, publication links, and coding categories: [Layer 5 TP Blog Analysis Table](https://github.com/NoEndsNoGains/family-court-reform/blob/main/DATA/layer5_NGOs_media/Layer%205%20TP-BlogsAnalyesTable.md). The analysis coded all 67 TP blog posts (November 2024-October 2025) into transparency-focused (n=36) and other content (n=31), with transparency posts further categorised by function (monitoring, education, documentation, critique).
+[^TP_Analysis]: Full blog corpus analysis with post IDs, dates, publication links, and coding categories: [Layer 5 TP Blog Analysis Table](https://github.com/NoEndsNoGains/family-court-reform/blob/main/DATA/layer5_NGOs_media/Layer%205%20TP-BlogsAnalyesTable.md)
 
 [^TIG_page]: Judiciary.uk – TIG documents: https://www.judiciary.uk/guidance-and-resources/transparency-implementation-group-minutes-and-sub-group-minutes/
 
-[^TIG_Overview]: TIG establishment and composition documented in TIG Meeting Minutes, 15 December 2021. Available at: https://www.judiciary.uk/wp-content/uploads/2022/08/TIG-15-12-21-Approved-minutes.pdf. Chair: Sir Andrew McFarlane, President of the Family Division. Members include judiciary, MoJ, HMCTS, Cafcass, DfE, and Transparency Project representatives.
+[^TIG_Overview]: TIG establishment and composition documented in TIG Meeting Minutes, 15 December 2021.
 
-[^Pilots_Timeline]: Pilot timeline: TIG Pilots Sub-group Meeting, 18 January 2022 (3-site launch planned). Available at: https://www.judiciary.uk/wp-content/uploads/2022/09/TIG-Pilots-sub-group-meeting-18-1-22.pdf; Media Pilot Sub-group Minutes, 26 June 2024 (20 DFJ area expansion confirmed). Available at: https://www.judiciary.uk/wp-content/uploads/2025/04/Media-Pilot-Sub-group-minutes-26.6.24.pdf
+[^Pilots_Timeline]: Pilot timeline documented in TIG Pilots Sub-group Meeting, 18 January 2022 and Media Pilot Sub-group Minutes, 26 June 2024.
 
-[^Pilots_Attendance]: "Limited" media attendance despite pilot expansion: Media Pilot Sub-group Minutes, 26 March 2024. Available at: https://www.judiciary.uk/wp-content/uploads/2024/04/Media-Pilot-Sub-group-minutes-26.3.24.pdf. Challenges include late listing, vague case codes, journalist unawareness of pilot schemes.
+[^Pilots_Attendance]: "Limited" media attendance noted in Media Pilot Sub-group Minutes, 26 March 2024.
 
-[^Anon_Funding]: Anonymisation unit funding discussions span 2022–2024 without resolution. Australian benchmark (£286k/year, ~1,000 judgments) noted in Anonymisation Sub-group Minutes, 11 July 2023. Available at: https://www.judiciary.uk/wp-content/uploads/2023/11/Anonymisation-Sub-group-minutes-11.7.23.pdf. AI anonymisation trial rejected; manual processes remain unfunded through Anonymisation Sub-Group Minutes, 27 February 2024. Available at: https://www.judiciary.uk/wp-content/uploads/2024/04/Anonymisation-Sub-Group-minutes-27.2.24.pdf
+[^Anon_Funding]: Anonymisation unit funding discussions span 2022–2024 without resolution, documented in Anonymisation Sub-group Minutes, 11 July 2023 and 27 February 2024.
 
-[^Pub_Rates]: Publication rates ~10/month derived from BAILII family court judgment upload patterns cross-referenced with TNA (The National Archives) logs, discussed in Anonymisation Sub-group Minutes, 19 July 2022. Available at: https://www.judiciary.uk/wp-content/uploads/2023/02/19-July-2022-Minutes-SG2-Anonymisation.pdf. Justice Committee 10% target (10% of family judgments published) mentioned in TIG Media Reporting Meeting, 26 October 2022. Available at: https://www.judiciary.uk/wp-content/uploads/2022/11/TIG-Media-Reporting-meeting-to-update-on-pilots-26-October-22-.pdf
+[^Pub_Rates]: Publication rates documented in Anonymisation Sub-group Minutes, 19 July 2022 and TIG Media Reporting Meeting, 26 October 2022.
 
-[^Data_Gaps]: "Scorecard" proposal mapping six priority data gaps (pre-court interventions, litigant demographics, case durations, outcomes, participant experiences, geographic variation): Data Collection Sub-Group Minutes, 27 January 2022. Available at: https://www.judiciary.uk/wp-content/uploads/2022/08/Data-Collection-Sub-group-Minutes-27.01.22.pdf; stalled implementation acknowledged in Data Collection Sub-Group Minutes, 13 June 2022 (HMCTS integration barriers cited). Available at: https://www.judiciary.uk/wp-content/uploads/2022/08/Data-Collection-Sub-Group-minutes-13.06.22.pdf
+[^Data_Gaps]: "Scorecard" proposal documented in Data Collection Sub-Group Minutes, 27 January 2022 and 13 June 2022.
 
-[^Media_Codes]: Late/vague listing codes preventing journalist attendance: Media Engagement Sub-group Minutes, 3 February 2022 (initial identification). Available at: https://www.judiciary.uk/wp-content/uploads/2022/08/Media-Engagement-Sub-group-Minutes-3.2.22.pdf; TIG Media Engagement Meeting, 15 November 2022 ("teething issues" persist). Available at: https://www.judiciary.uk/wp-content/uploads/2022/11/TIG-Media-Engagement-15-November-22-Final-note-of-meeting.pdf; Media Pilot Sub-group Minutes, 4 December 2024 ("manual burden" of improved coding remains unresolved). Available at: https://www.judiciary.uk/wp-content/uploads/2025/04/Media-Pilot-Sub-group-minutes-4.12.24.pdf
+[^Media_Codes]: Late/vague listing codes documented in Media Engagement Sub-group Minutes, 3 February 2022, TIG Media Engagement Meeting, 15 November 2022, and Media Pilot Sub-group Minutes, 4 December 2024.
 
-[^FRCTG_Forms]: Financial remedies form-guidance disconnects parallel EX107 issues: FRCTG Meeting Minutes, 27 April 2022 (parties report confusion about anonymity, publication procedures in FR cases). Available at: https://www.judiciary.uk/wp-content/uploads/2022/12/FRCTG-Meeting-Minutes-27-April-2022.pdf
+[^FRCTG_Forms]: Financial remedies form-guidance disconnects documented in FRCTG Meeting Minutes, 27 April 2022.
 
-[^TIG_Method]: **Methodology:** A full-text keyword search was conducted across the 36-document PDF corpus, downloaded from the Judiciary.uk website. Native OS search tools (macOS Spotlight / Windows Search) queried the *entire content* of all 36 files simultaneously, ensuring reproducibility of keyword frequency and context identification.
+[^TIG_Method]: Full-text keyword search conducted across 36-document PDF corpus using native OS search tools.
 
-[^Dual_Position]: TP chair serves on TIG sub-groups, creating unique dual external/internal observer position. Documented across multiple TIG sub-group minutes including TIG Media Engagement Meeting, 15 November 2022. Available at: https://www.judiciary.uk/wp-content/uploads/2022/11/TIG-Media-Engagement-15-November-22-Final-note-of-meeting.pdf
+[^TIG_Pub_Guidance]: Publication targets documented in Publication Guidance Subgroup Report, July 2022.
 
-[^TIG_Judgments]: Courts and Tribunals Judiciary, "Anonymisation and Publication of Judgments sub-group"
+[^TIG_Data]: Data strategy roadmap documented in Family Court Transparency Implementation Group - First Progress Report.
 
-[^TIG_Data]: Courts and Tribunals Judiciary, "Family Court Transparency Implementation Group - First Progress Report"
+[^TIG_Pilot]: Pilot evaluation documented in Message from the President of the Family Division: Reporting Pilot.
 
-[^TIG_Pilot]: Courts and Tribunals Judiciary, "Message from the President of the Family Division: Reporting Pilot"
-
-[^TIG_Pub_Guidance]: Courts and Tribunals Judiciary. (2022, July 20). *Publication Guidance Subgroup Report*...
-
-[^TIG_Anon]: Courts and Tribunals Judiciary, "Family Court Transparency Implementation Group - First Progress Report"
+[^TIG_Anon]: Anonymisation Unit exploration documented in Family Court Transparency Implementation Group - First Progress Report.
 
 ---
 
