@@ -147,7 +147,7 @@ They can do it once again.
 
 And even if they do—this time it's a little different. Simple. There is nothing left.
 
-The mother has been emptied. Only an eggshell is left.
+The mother has been emptied. Only an eggshell is left. And the child? The child is a big girl now.
 
 So you can finally ask the question that matters: What if I'm wrong? What if they're wrong? What if we're all wrong—and the only way to know is to see what was actually said, actually recorded, actually decided in that room?
 
