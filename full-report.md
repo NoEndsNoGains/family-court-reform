@@ -161,9 +161,8 @@ Especially those parts.
 
 Because your children deserve a mother who can look at all the evidence—not just the version her side presented better. And the system deserves to be challenged by someone who isn't trying to win anymore. Just trying to understand.
 
-The research below is written on behalf of mothers and fathers just like this one. It is written on behalf of a parent who is done waiting for permission.
 
-This is me switching the light on.
+The research below is written on behalf of mothers and fathers just like this one. It is written on behalf of all parents done waiting for permission. This research flicks the light switch on.
 
 ## Why This Story Matters
 
