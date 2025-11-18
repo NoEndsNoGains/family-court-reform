@@ -254,7 +254,7 @@ This research asks: Can a justice system operate safely when its decisions canno
 
 What follows is heavy-duty research. Forensic. Unrelenting.
 
-As tough as my broken human soul—supported by AI—could make it.
+As tough as my broken human soul could make it.
 
 Boring. Heavy. Beyond "dense." At times, unreadable.
 
