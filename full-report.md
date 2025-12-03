@@ -1,20 +1,20 @@
 > **This is a living, unfinished draft.**  
 > It contains known gaps, typos, logical contradictions, and areas needing evidence.
 >
-> ## Where I Am (17 November 2025)
+> ## Where I Am (03 December 2025)
 >
 > **What's solid:**
 > - Chapter 7 (Children) – I'm happy with this
 > - Layer 5 (Observers & Architects) – This also feels ok-ish (although dry as hell)
 >
 > **What needs work:**
-> - Layers 4→3→2→1 – Working backwards through the five-layer analysis (3 days each, realistically end of November with life/work happening)
+> - Layers 4→3→2→1 – Working backwards through the five-layer analysis (3 days each as a minimum)
 > - Chapters 1-5 opener – The problem statement, theory, framework (1 week)
-> - Chapters 8-10 – Solutions and roadmap are huge; minimum a month to get them publication-ready
+> - Chapters 8-10 – Solutions and roadmap need proper rewrite (2-3 weeks)
 >
 > ## My Sunset: 14 February 2026
 >
-> That's my chosen publication date. It's negotiable in principle but committed in practice.
+> That's my chosen finish date. It's negotiable in principle but committed in practice.
 >
 > Between now and then, this draft is alive and open. If you spot something wrong, broken, or missing, please contribute.
 >
