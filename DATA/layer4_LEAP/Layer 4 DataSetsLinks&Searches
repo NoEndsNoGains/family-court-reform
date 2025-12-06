@@ -1,5 +1,19 @@
 ###LAYER 4 - COURT'S USERS (PARENTS/LiP)
 
+
+Search queries employed:
+- site:justanswer.co.uk "family court" transcript
+- site:justanswer.co.uk transcript AND ("cost" OR "Legal Aid")
+- site:justanswer.co.uk transcript AND ("delay" OR "refused" OR "recording missing")
+- site:justanswer.co.uk "transcription company" AND ("delay" OR "problem")
+- site:justanswer.co.uk "EX107"
+- site:justanswer.co.uk "family court" AND ("confidential" OR "publication")
+- Variations with before:2020-01-01 for historical check
+
+Inclusion/exclusion criteria: England & Wales family proceedings; parent/litigant perspective; references to transcripts, recordings, publication restrictions, or forms (EX107, EX105); contains procedural detail; describes transcript/publication process stage.
+
+Exclusions: criminal matters, duplicates, generic complaints, non-transcript procedures.
+
 Search Results:
 https://www.justanswer.co.uk/law/p6cy4-made-appeal-time-family-court-went.html
 https://www.justanswer.co.uk/family-law/gu7s1-applied-court-waiting-hearing-early-next.html
