@@ -1,20 +1,20 @@
 > **This is a living, unfinished draft.**  
 > It contains known gaps, typos, logical contradictions, and areas needing evidence.
 >
-> ## Where I Am (03 December 2025)
+> ## Where I Am (17 November 2025)
 >
 > **What's solid:**
 > - Chapter 7 (Children) – I'm happy with this
 > - Layer 5 (Observers & Architects) – This also feels ok-ish (although dry as hell)
 >
 > **What needs work:**
-> - Layers 4→3→2→1 – Working backwards through the five-layer analysis (3 days each as a minimum)
+> - Layers 4→3→2→1 – Working backwards through the five-layer analysis (3 days each, realistically end of November with life/work happening)
 > - Chapters 1-5 opener – The problem statement, theory, framework (1 week)
-> - Chapters 8-10 – Solutions and roadmap need proper rewrite (2-3 weeks)
+> - Chapters 8-10 – Solutions and roadmap are huge; minimum a month to get them publication-ready
 >
 > ## My Sunset: 14 February 2026
 >
-> That's my chosen finish date. It's negotiable in principle but committed in practice.
+> That's my chosen publication date. It's negotiable in principle but committed in practice.
 >
 > Between now and then, this draft is alive and open. If you spot something wrong, broken, or missing, please contribute.
 >
@@ -4567,6 +4567,143 @@ Publication decisions engage **Article 8 (right to private life)**—permanently
 This is particularly stark in **private law proceedings**—where representation is rare—yet children may have strong views about public exposure of parental conflict, allegations, or their own wishes. The guidance could have mandated age-appropriate consultation with **all affected children**, regardless of party status. Instead, it treats unrepresented children as **subjects**, not **participants**, in decisions about their privacy.
 
 This procedural design embeds **epistemic exclusion** at the architectural level.
+
+# 7.1.2 The Parent's Dilemma: Consulting Unrepresented Children in Practice
+
+The structural exclusion documented in §7.1.1 creates a practical dilemma for parents who wish to honour their children's participatory rights. When a parent applies for transparency relief—whether publication of judgments or relaxation of reporting restrictions—the June 2024 Practice Guidance states that children who are represented should be "notified so that they have an opportunity to make representations" (McFarlane, 2024, para. 3.13). But for unrepresented children—the majority in private law proceedings—the Guidance offers nothing: no mechanism, no script, no safeguards, no acknowledgment that consultation might even be appropriate.
+
+A parent attempting to fill this gap faces a choice with no clear right answer.
+
+---
+
+## The Choice
+
+**Option A: Do not consult the children**
+
+Proceeding without consulting children treats them as objects of the decision rather than participants in it—replicating the very exclusion this chapter critiques. The parent makes a unilateral decision about the child's narrative without seeking their view, however imperfect that consultation might be.
+
+**Option B: Consult the children**
+
+Consulting children about publication decisions necessarily re-engages them in proceedings they may wish to escape. The Transparency Project's guidance notes that children "are entitled to have these matters explained to them"—but explanation is not neutral. The act of asking requires the child to think about the case, about exposure, about what adults might do with their story. For a child already exhausted by parental conflict, being asked may itself constitute a burden.
+
+Neither option is without risk. The system provides no support for navigating this choice.
+
+---
+
+## If a Parent Chooses to Consult
+
+A parent who concludes that relying on the paternalistic assumption that "adults know best" would deny their children an entitlement to participate faces the question of how. The Transparency Project's guidance that children "are entitled to have these matters explained to them" offers a principle but no method.
+
+What might responsible consultation look like?
+
+### Separation and individuality
+
+Each child should be spoken to separately. Children within the same family may hold different views, have different concerns, and respond differently to the same question. A joint conversation risks one child's response influencing or silencing another's.
+
+### Brevity and focus
+
+The discussion should be brief, neutral, and focused solely on the publication proposal. Revisiting the substantive proceedings—the conflict, the allegations, the decisions—risks causing distress that the consultation itself should not create. The question is narrow: what do you think about this being written about and made public? Not: what do you think about what happened?
+
+### Age-appropriate language
+
+Anonymisation is a technical concept. For a child, the relevant question is practical: could anyone find out this is about you? Explaining that no names, no schools, no identifying details would appear may address concerns that abstract reassurances cannot.
+
+---
+
+## What Children Might Say
+
+Children's responses to such consultation are unlikely to be uniform. Different children—even within the same family—may respond in fundamentally different ways.
+
+### Engagement with specifics
+
+Some children may engage directly with the proposal. They may raise concrete concerns—bullying, discovery by peers, what friends might think—and be satisfied by concrete safeguards. Once reassured that identification is prevented, they may have no further objection. Their participation is meaningful: they understood the question, raised a concern, received an answer, and accepted it.
+
+### Weariness and withdrawal
+
+Other children may respond not to the content of the question but to the fact of being asked at all. A child who has lived through years of high-conflict proceedings may express a general weariness with adult conflict and a wish to remain neutral. This response is harder to interpret. Does it mean "I don't mind what you do"? Or does it mean "I don't want to be involved in this decision—or any decision connected to these proceedings"?
+
+The parent's careful attempt to discuss solely the publication proposal, without discussing the substantive proceedings, may be procedurally sound but psychologically artificial. For a child carrying years of accumulated burden, any question about "the case" may activate the whole. The distinction between "asking about publication" and "drawing back into conflict" may not exist in the child's experience.
+
+### Silence or confusion
+
+Some children may not understand the question, may not want to answer, or may not know what they think. Silence is also a response. It does not resolve the dilemma—but it should not be overridden by parental interpretation.
+
+---
+
+## The Interpretation Problem
+
+Even where a child offers a clear response, interpretation remains contested.
+
+A child who expresses weariness and a wish to remain neutral might be understood in different ways:
+
+- The parent seeking transparency may interpret this as consistent with proceeding, provided safeguards protect the child from further involvement
+- The other parent may interpret the same response as an objection to the entire enterprise
+- A judge might read it either way
+- An independent advocate—if one existed—might reach a different conclusion still
+
+Without independent representation, children's views are necessarily filtered through parental interpretation, however scrupulous. The parent is simultaneously the applicant (with personal and public-interest motivations) and the conduit for children's views. This structural conflict cannot be resolved by good intentions alone.
+
+---
+
+## The Verification Problem
+
+A parent who consults their children and reports the outcome to the court faces a further difficulty: no mechanism exists to verify the consultation.
+
+The parent's account may be accurate and complete. But who decides? The parent's assessment that further questioning would harm the children is itself an exercise of interpretive authority over their views. An independent representative might reach a different conclusion—might consider that the child's weariness warranted further exploration, or that the younger child's acceptance was too easily obtained.
+
+The court receives one account, from one interpreter, with no independent verification. This may be the best available—but it is not the same as the child's voice reaching the court directly.
+
+---
+
+## Guidance for Parents Facing This Choice
+
+The system offers no guidance. The following framework represents one attempt to navigate the dilemma responsibly.
+
+### Before deciding whether to consult
+
+- Consider the child's age, developmental capacity, and current emotional state
+- Consider whether the child has expressed weariness with the proceedings or a wish to disengage
+- Consider whether the child is likely to encounter the published material (through school, social media, or family members)
+- Recognise that both consulting and not consulting carry risks
+
+### If choosing to consult
+
+- Speak to each child separately and individually
+- Keep the discussion brief
+- Focus solely on the publication proposal—do not revisit the substantive proceedings
+- Use age-appropriate language
+- Explain what anonymisation means in practical terms (no names, no schools, no identifying details)
+- Address specific concerns the child raises (e.g., bullying, discovery by peers)
+- Do not pressure the child toward any particular response
+- Accept the child's response at face value, even if it complicates your application
+- Document what you asked and what the child said
+
+### If a child expresses weariness or a wish to remain neutral
+
+- Recognise this may indicate the question itself is burdensome
+- Consider whether proceeding—even with safeguards—honours or overrides that expressed wish
+- If proceeding, explain in your application how proposed safeguards address the child's position
+
+### If choosing not to consult
+
+- Document your reasoning
+- Explain in your application why consultation was not appropriate in this case
+- Consider whether independent representation should be sought
+
+---
+
+## The Unresolved Tension
+
+This guidance cannot resolve the fundamental tension.
+
+A parent who consults their children, keeps the discussion brief, accepts responses at face value, and proposes safeguards to address stated concerns may be doing the best available within current constraints. But "best available" is not "adequate."
+
+A child's wish to "remain neutral" cannot be fully honoured through any available procedure—because neutrality would require not being consulted at all, yet not being consulted would replicate the exclusion Article 12 prohibits.
+
+The system forces a choice between two forms of harm: excluding children from decisions about their own narratives, or burdening them with participation in decisions they may lack the capacity or desire to make.
+
+Until the system provides mechanisms for independent, developmentally appropriate consultation with unrepresented children—mechanisms that neither exclude them entirely nor burden them with decisions they cannot meaningfully make—each parent must navigate this dilemma alone, without guidance, support, or assurance that their choice was correct.
+
 
 ## 7.2 Methodological Reorientation: Finding the Question Before Proposing Solutions
 
