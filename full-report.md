@@ -4809,6 +4809,24 @@ Current transparency policy treats publication as a binary present-tense decisio
 - **Year 10 (age 18)**: Young adult seeking history, cannot access sealed transcript (e.g., unlike adoption records under the Adoption and Children Act 2002, which grant adopted adults access to their birth records with counseling support)
 - **Year 20 (age 28)**: Adult wishes to authorise anonymised publication to help others, no mechanism exists
 
+#### What Adults Actually Encounter
+The temporal cascade is not theoretical. Care-experienced adults seeking to understand their childhoods report concrete barriers that compound across time:
+
+The 24-year-old who discovers a published judgment about her care proceedings while job-searching—learning for the first time details about parental mental health that reshape her understanding of her childhood, with no mechanism to request removal or respond
+The 30-year-old who wants to understand why contact with his father was terminated, finding the judgment sealed but the recordings destroyed—the "protection" that shielded him as a child now prevents him as an adult from accessing his own history
+The 19-year-old care leaver who finds her case cited in academic literature and legal textbooks, her trauma anonymised but recognisable to anyone who knew the family, used to illustrate systemic failures she had no say in exposing
+
+These are not edge cases. They represent the predictable consequences of a system that treats publication and sealing as binary present-tense decisions without mechanisms for temporal revision.
+
+#### The Intergenerational Justice Gap
+Political philosophers examining decisions that bind future persons—climate policy, constitutional design, sovereign debt—have developed frameworks for "anticipatory governance": how present decision-makers can legitimately constrain future options (Thompson, 2010; Gardiner, 2011). These frameworks typically require either consent mechanisms, revisability provisions, or strong justification for irreversibility.
+Family court transparency policy meets none of these criteria. Publication is irreversible (no "right to be forgotten" for judgments). Sealing is effectively irreversible (no automatic adult access). Neither pathway includes consent from the future self affected. The justification offered—"children's welfare" or "public interest"—is determined by present adults without mechanisms to verify alignment with what the future adult will actually value.
+This represents what Tremmel (2009) terms "intergenerational injustice by design": institutional structures that systematically privilege present decision-makers' judgments over future persons' autonomy, without procedural safeguards to legitimate the binding.
+
+#### Connection Forward
+This temporal analysis gains particular force when applied to transcripts (§7.7 below). Judgments at least preserve the institutional narrative. Transcripts—the verbatim record that might allow an adult to reconstruct what actually happened—face destruction timelines that may erase them before children reach adulthood. The cascade doesn't merely constrain future choices; it may eliminate the informational basis for making them.
+
+
 Both pathways involve adults making permanent decisions on behalf of future selves who will experience consequences the present decision-maker cannot foresee. A parent or judge determining in 2025 that a child "needs privacy and stability" makes that determination binding on the same individual in 2035, 2045, and beyond—when they may hold entirely different views about whether transparency or privacy serves their interests. The system provides no mechanism to revisit these decisions as children mature, no provision for time-limited sealing with adult review, and no recognition that the 8-year-old subject of proceedings and the 28-year-old seeking to understand their history are, developmentally and legally, different persons with potentially different preferences about transparency. This temporal disjunction means adults seeking to understand childhood proceedings may experience frustration at discovering published information they never consented to—or, conversely, inability to access sealed records they wish to examine.
 
 This temporal asymmetry reflects broader tensions in developmental psychology between protecting children's present welfare and respecting their future autonomy. Developmental theorists emphasise that identity formation is a lifelong process (Erikson, 1968), with adolescents and young adults actively reworking childhood narratives as part of identity consolidation (Habermas & Bluck, 2000). Permanent publication decisions made during childhood constrain this developmental process by fixing an authoritative narrative before the individual has capacity to participate in its construction.
@@ -5139,6 +5157,8 @@ This path treats everything that follows—procedural interventions, paradigmati
 
 ### 7.8.5 The Collaborative Framework
 
+The framework below draws on participatory action research, which positions affected communities as co-investigators rather than research subjects (Reason & Bradbury, 2008), and co-production principles increasingly recognised in public service reform as necessary for legitimate policy design (Bovaird, 2007). It also reflects deliberative democracy's core claim: that decisions affecting people derive legitimacy from meaningful opportunities for those affected to shape them (Young, 2000)
+
 What is proposed is that all six analytical layers participate equally, with no limitations on who can join and express their views:
    - Children and care-experienced adults
    - Parents and litigants
@@ -5259,6 +5279,8 @@ Barn, R., Andrew, L., & Mantovani, N. (2005). *Life after care: The experiences 
 
 Booth, W. C. (1983). *The rhetoric of fiction* (2nd ed.). University of Chicago Press.
 
+Bovaird, T. (2007). Beyond engagement and participation: User and community coproduction of public services. *Public Administration Review*, *67*(5), 846–860. https://doi.org/10.1111/j.1540-6210.2007.00773.x
+
 Brophy, J., Perry, K., & Harrison, E. (2016). *A review of anonymised judgments on Bailii: Children, privacy and "jigsaw identification"* (NYAS/ALC Report). National Youth Advocacy Service. https://www.nyas.net/wp-content/uploads/2016/11/NYAS-ALC-Report-on-Jigsaw-Identification-2016.pdf
 
 Bruner, J. (2004). Life as narrative. *Social Research*, *71*(3), 691–710.
@@ -5285,6 +5307,8 @@ Freeman, M. (2010). *Hindsight: The promise and peril of looking backward*. Oxfo
 
 Fricker, M. (2007). *Epistemic injustice: Power and the ethics of knowing*. Oxford University Press. https://doi.org/10.1093/acprof:oso/9780198237907.001.0001
 
+Gardiner, S. M. (2011). *A perfect moral storm: The ethical tragedy of climate change*. Oxford University Press.
+
 Goffman, E. (1981). *Forms of talk*. University of Pennsylvania Press.
 
 Habermas, T., & Bluck, S. (2000). Getting a life: The emergence of the life story in adolescence. *Psychological Bulletin*, *126*(5), 748–769. https://doi.org/10.1037/0033-2909.126.5.748
@@ -5309,6 +5333,8 @@ Neil, E., Cossar, J., Lorgelly, P., & Young, J. (2010). *Helping birth families:
 
 *Pretty v United Kingdom*, App. No. 2346/02, 35 EHRR 1 (2002). https://hudoc.echr.coe.int/eng?i=001-60448
 
+Reason, P., & Bradbury, H. (Eds.). (2008). *The SAGE handbook of action research: Participative inquiry and practice* (2nd ed.). SAGE.
+
 Scottish Government. (2020, January 28). *Children and young people’s voices matter: Progress report*. https://www.gov.scot/publications/children-young-peoples-voices-matter/pages/4/
 
 Scott, J. C. (1998). *Seeing like a state: How certain schemes to improve the human condition have failed*. Yale University Press.
@@ -5319,13 +5345,19 @@ Smith, S., & Watson, J. (2010). *Reading autobiography: A guide for interpreting
 
 Star, S. L. (1991). The sociology of the invisible: The primacy of infrastructure. In J. Holmström & K. Lyytinen (Eds.), *Proceedings of the 14th IRIS Conference* (pp. 1–22). University of Oulu.
 
-Thomas, N., & O’Kane, C. (1998). The ethics of participatory research with children. *Children & Society*, *12*(5), 336–348. https://doi.org/10.1111/j.1099-0860.1998.tb00091.x
+Thomas, N., & O’Kane, C. (1998). The ethics of participatory research with children. *Children & Society*, *12*(5), 336–348. https://doi.org/10.1111/j.1099-0860.1998.tb00091.
+
+Thompson, D. F. (2010). Representing future generations: Political presentism and democratic trusteeship. *Critical Review of International Social and Political Philosophy*, *13*(1), 17–37. https://doi.org/10.1080/13698230903326232
 
 Transparency Implementation Group. (2023, February). *Publication Guidance Subgroup Report*. Courts and Tribunals Judiciary. https://www.judiciary.uk/wp-content/uploads/2023/02/Publication-Guidance-Subgroup-Report.pdf
 
 Transparency Implementation Group. (2024, July). *NatCen Report on the Transparency Implementation Group’s Family Court Reporting Pilot*. Courts and Tribunals Judiciary. https://www.judiciary.uk/wp-content/uploads/2024/07/NatCen-Report-on-the-Transparency-Implementation-Groups-Family-Court-Reporting-Pilot-July-2024.pdf
 
+Tremmel, J. C. (2009). *A theory of intergenerational justice*. Earthscan.
+
 United Nations. (1989). *Convention on the Rights of the Child*. https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child
+
+Young, I. M. (2000). *Inclusion and democracy*. Oxford University Press.
 
 *Von Hannover v Germany*, App. No. 59320/00, 40 EHRR 1 (2004). https://hudoc.echr.coe.int/eng?i=001-61859
   
