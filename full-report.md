@@ -4699,9 +4699,9 @@ Chapter 8 does not propose aspirational transformation ("imagine if the system w
 **Chapter 9's Contribution:** While Chapter 8 addresses immediate barriers through practical interventions, Chapter 9 tackles the fundamental architectural failure: the L4→L5 barrier that prevents accountability cycles from functioning. By arguing for user publication rights, Chapter 9 proposes the leverage point intervention that enables the positive cascade mapped in Section 6.6.4—transforming the system from one that maintains its own dysfunction to one that enables its own reform.
 
 
-**My letter to you**
+## My letter to you
 
-Love,
+**Love,**
 
 You know I believe in transparency.
 I've said it so many times you're probably sick of hearing it. The family courts are too closed. Too hidden. Too unaccountable. If we want a system that works — a system that's better — we need to be able to see what's happening inside it.
@@ -4789,6 +4789,7 @@ x
 ## P.S.
 I spent weeks on this. Weeks realising that the thing I was fighting for might not be the thing that's needed.
 Or maybe it is — but not in the way I imagined.
+
 
 
 
