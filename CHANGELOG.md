@@ -147,6 +147,7 @@ layout: changelog
 | 2025-12-06 | — | Enhance guidance on consulting unrepresented children | @NoEndsNoGains |
 | 2025-12-06 | — | Update 4.user-experience.md | @NoEndsNoGains |
 | 2025-12-06 | — | Update 4.user-experience.md | @NoEndsNoGains |
+| 2025-12-06 | — | Update 4.user-experience.md | @NoEndsNoGains |
 | 2025-11-03 | v0.9 | **Initial draft released** – 5 Layers defined, stats added | @NoEndsNoGains |
 | — | — | *Your name here* | [Submit PR →](https://github.com/NoEndsNoGains/family-court-reform/pulls) |
 
