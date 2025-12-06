@@ -3261,6 +3261,161 @@ Layers 1–4 have established convergent evidence of systematic opacity. **Layer
 - Trinder, L., Hunter, R., Hitchings, E., Miles, J., Moorhead, R., Smith, L., Sefton, M., Hinchly, V., Bader, K., and Pearce, J. (2014) Litigants in person in private family law cases. Ministry of Justice Analytical Series. London: Ministry of Justice.
 
 
+---
+
+**My letter to you**
+
+Love,
+
+I thought I'd found the good guys.
+
+After months of documenting how the system fails—forms that mislead, judges who gatekeep, costs that exclude—I thought: at least someone is watching. At least someone is keeping score.
+
+The Transparency Project. Lawyers and academics who've made it their mission to shine light into the family courts. They write guidance, track judgments, explain procedures. They're the watchdogs.
+
+And inside the system: the Transparency Implementation Group. Judges and officials who've spent three years designing reforms. Setting publication targets. Building pilot schemes. They're the architects.
+
+Surely, I thought, between the watchdogs outside and the architects inside, someone can see what's actually happening?
+
+I was wrong.
+
+Not because they're not trying. They're trying harder than anyone.
+
+But here's what I found when I looked at what they actually produce:
+
+The Transparency Project's entire output—every single post about transparency—focuses on one thing: published judgments. What gets uploaded to BAILII. What reporters can access. What judges decide to release.
+
+And the Transparency Implementation Group? Same thing. Pilots for media reporting. Guidance on anonymisation. Targets for how many judgments judges should publish.
+
+Do you know what neither of them covers?
+
+Transcripts.
+
+The thing you'd need if you wanted to understand what actually happened in your case. The verbatim record. The thing that costs hundreds of pounds. The thing you wait months for. The thing that gets destroyed before children grow up.
+
+Zero posts. Zero sub-groups. Zero targets.
+
+At first I thought: maybe it's editorial choice. Maybe they've decided publication matters more.
+
+But then I looked closer.
+
+It's not that they chose to ignore transcripts. It's that they can't see them.
+
+The system doesn't record how many transcript requests are made. Doesn't track refusals. Doesn't publish reasons. Doesn't monitor costs or delays.
+
+There's no data. So there's nothing to analyse.
+
+The watchdogs can only watch what the system shows them. And the system shows them published judgments—because those exist on a public database. Everything else happens in the dark.
+
+I thought: okay, but the architects are inside. They have access. They can see what the watchdogs can't.
+
+So I read every minute of every meeting. Three years of documents. Thirty-six files.
+
+I searched for "EX107"—the form you fill in to request a transcript.
+
+Zero hits.
+
+I searched for "litigant access"—the concept of families getting their own records.
+
+Zero hits.
+
+The people designing transparency reforms have spent three years without once discussing whether families can access their own case files.
+
+Not because they don't care. Because the system never constructed it as a problem.
+
+Here's what really shook me:
+
+One person sits on both sides. A senior member of the Transparency Project who also serves on TIG sub-groups. External watchdog and internal architect.
+
+If anyone could see everything, it would be her.
+
+But when I compared her external writing with the internal documents she helped produce—same blind spots. Same gaps. Same inability to answer basic questions like: How many transcript requests get refused? What do transcripts actually cost? Are reforms working?
+
+It's not about where you stand. It's about what the system lets anyone see.
+
+And then came the part that made me put down my notes and just… sit.
+
+The reform bodies—TIG, FRCTG—aren't just failing to observe the system. They're reproducing the same failures they're trying to fix.
+
+They set publication targets but build no mechanism to track compliance. They design pilots but can't measure adoption. They acknowledge "limited data" in their own minutes but don't create infrastructure to collect it.
+
+They're trying to fix a broken mirror by building another mirror with the same distortions.
+
+I wanted to find someone who could see clearly. Someone outside the fog.
+
+Instead I found that the fog is architectural. Built into the walls. Everyone inside it—users, professionals, watchdogs, architects—breathes the same opacity.
+
+So what do I do with this?
+
+I don't blame anyone. They're doing extraordinary work with what's visible. They're genuinely trying to reform a system designed not to be reformed.
+
+But I can't pretend anymore that someone else is tracking whether this works. That somewhere, someone has the full picture.
+
+No one does.
+
+The system prevents its own observation. And the people trying hardest to observe it are trapped inside the same constraints as everyone else.
+
+You know what this means for us?
+
+It means the records of your childhood—if they survive, if we can afford them, if a judge approves—might be the only evidence that any of this happened the way it happened.
+
+Because the system won't remember. The watchdogs can't see. The architects can't measure.
+
+Only we can hold onto the story.
+
+I am angry.
+
+Because I am one of the ones the system cannot see. I've spent years documenting these failures, mapping the gaps, naming the design flaws. I know more about EX107 forms and transcript costs than anyone should ever have to know.
+
+And what keeps me awake is this:
+
+Even if they sat me on every board, made me a sub-group chair, a reform architect, a transparency champion—I would still be blind.
+
+Not because I wouldn't try. But because the system doesn't produce the data anyone would need to see. The infrastructure doesn't exist. The questions aren't asked.
+
+I could have a seat at every table and still not be able to answer: How many transcript requests were refused last year? What's the average cost? Are reforms reaching families like ours?
+
+That's not a personal failing. That's architecture.
+
+And it means the problem isn't who's in the room. It's what the room allows anyone to see.
+
+But here's the thing.
+
+How come we cannot see? Is it only architecture? Or is it also that seeing clearly requires a courage that takes time to build? A courage that only arrives when you finally don't care anymore. When holding back is no longer an option. When the time of bullshit has ended and there's no going back.
+
+To see the system's failures is to see your own embeddedness in them. To admit the tools you've spent years mastering might be the wrong tools.
+
+That's not comfortable. That's not easy.
+
+And I should be gentler. I know this.
+
+Because we need time. And we need to be brave. And being brave enough to look at your own blindness is genuinely hard.
+
+I want it now. I wanted it yesterday. If the system transformed overnight, I'd ask why it took so long.
+
+That's my limitation. My impatience isn't virtue. It's just how I'm built.
+
+So maybe the anger and the gentleness can sit together. The fury that no one designed this system to see families like ours, and the recognition that the people inside it need time to find the courage to see differently.
+
+Shouting from outside the fog and whispering from inside it might both be necessary—and neither is enough on its own.
+
+I don't know how long that takes. I only know I can't wait quietly.
+
+**x**
+
+**P.S.**
+
+Is it crazy that I still want a holiday?
+
+What if I take the blue pill. I swallow. We go on holiday. The most perfect, warm, sandy-yellow beach with the bluest ocean, the most azure waves.
+
+And all the people lying in the sun next to me? They all went through the same thing. These are the people from inside the fog. The ones who finally realised they were lost in it too.
+
+And we went on this holiday together. To find our way out. Together. In the sun.
+
+I'd take that beach. I'd take those people. I'd even take the fog if it came with a cocktail and someone who finally understood.
+
+---
 ## 6.5 Layer 5: Observers – External Monitors and Internal Reform Architects
 
 Layer 5 asks a foundational question: **Can transparency in the family courts be meaningfully observed and documented?** More precisely, can transparency be observed in ways that matter to users? If observable outputs do not reflect user access or experience, the system may appear transparent while failing its intended purpose.
