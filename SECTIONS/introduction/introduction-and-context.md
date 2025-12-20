@@ -66,7 +66,35 @@
 **CHAPTER 10: ROADMAP & CONCLUSION**
 - Implementation strategy, sequencing, accountability
 
-
+Author's Note
+I am not a lawyer, not a judge. I am an ordinary observer convinced the UK family court system is structurally broken (at least a little).
+This is Book 7 of a larger work on family court reform in England & Wales. It  examines voices absent from the debate. Each book stands on its own, though earlier volumes (Books 1–5) develop the five-layer analytical model, Book 6 synthesises cross-layer patterns, and Books 8–10 propose reforms. Some sections are still in development. I decided to publish the strongest material now because further delay felt like another form of silence.
+This book is about children and their  forgotten voice.. Book 7 asks: do we even remember who we designed the family courts for?.
+It is hard to tell you exactly who this book is for, but I can tell you how I wrote it. It has two voices. One is raw and simple: me telling you plainly what I feel. The other is rigorous, analytical, dense, and academic (I am still questioning how I wrote it, not to mention who will ever read it). Yet both voices are me. I am many things, and I refuse to pretend there is only one acceptable version of me when there are many. I promise you, you are the same; you might just pretend a little better. I can't pretend. That is, I can, but I am choosing not to. Pretending makes me tired. More, the academic (heavy) part is crucial. In that part is the truth—or rather, the closest I could get to it. And without it, without the truth, we cannot build a justice system we all believe in, or believe in a bit more. That is why this book is so dry; truth is dry.
+ 
+If I have to say who I most want to read it: the obvious choice is the people in positions of power, the ones who can actually do something. Because even if every word I have written is wrong, forcing them (you?) to look at the evidence will give them (you) stronger conviction to act, whether that is to follow my proposals and consider the challenges I write about, or to prove a better path, or walk stronger on the path they (you) have already chosen.
+I would like to hope I wrote it well enough to deserve being read by every judge, every reformer, every journalist, and every parent who has ever filled in an EX107 and waited months for a transcript that may never come.
+But if I'm honest, I want judges to read it most.
+We know each other, you and I—though you may not remember. You saw me in your courtroom. You formed impressions. You made decisions. And I sat there, reduced to whatever X, Y, or Z you needed me to be to get through your list.
+Through this writing, I hope you can finally recognise something: you never really know who the person in front of you is. What they're capable of.
+Maybe this book earns us a bit more respect for each other. As equals.
+This is my little reminder—to me and to you. We both represent the law. We both represent the truth. And we both do it from a position of power: you when you make a decision in that courtroom, producing your legal document; me when I make a decision in my living room, producing this one.
+The not-so-obvious choice for who this book is for is anyone in possession of a curious mind. A questioning mind. Anyone interested in the exploration of thoughts and thinking, regardless of the topic. Someone who gets excited about how we think, not what we think about. Someone who enjoys reading not for the sake of learning about the subject, but for the sake of watching how a human brain generates connections and "sees" things.
+To make things absolutely clear, I have no power inside the system, and I have never wanted any (fine, this might be a little lie).
+And to be even clearer—because I do love being clear—when you take official responsibility for something, people like me will come and eat you alive. We point at everything you did wrong, when in truth you were the only one brave enough to take that power, shoulder that responsibility, and do the best job you could.
+So from my safe position of just observing and scrutinising, I acknowledge this: my only power is this writing—the power I chose and the one I take full responsibility for. I feel the burden of these words, so I have tried to be as rigorous as I possibly could. And yet I know we are usually wrong. We miss things. We misinterpret. What feels right today can turn out to be completely mistaken tomorrow.
+ 
+This book is also fleeting. The closest it will ever be to accuracy is now, and the further you are from now, the less accurate it becomes. Law changes. Guidance is updated. New solutions appear. By the time you read this, some of what I have written may already be out of date. That is not a flaw in the work; it is a feature of writing about a system that is—finally—in motion. If the book ages badly because things have improved, I will consider that a success.
+So in a sense, I have created yet another thing for nothing. I must congratulate myself. I did it yet again.  I have created a work that does not matter because as soon as it is published, it is inaccurate by design regardless of how many things I got wrong in it. Ah, well…
+Yet is this exercise worth nothing? Not to me. It was an exercise of will. Of determination. Of persistence. An exercise in clarity of thought and in logic. An exercise in all those virtues I find important to myself as a human. Even if no one reads it, even if it changes nothing, the writing itself was the point. The discipline of trying to see clearly, and then trying to say clearly what I saw.
+Ah, doesn’t it sound so “high morale”? Beautiful. Just beautiful. So let me make it more brutal and a bit more truthful. I would never write this if I had won. Winners do not write books like this. Losers do.
+Okay, so what do we do with all of it? And what is your role in this? If you were thinking this is only about your reading, you might be wrong.
+You see, I have a deal for you.
+If I am wrong about anything I wrote here, correct me in public. Show me what I got wrong. Throw the eggs at me in anger or sniff with total dismissal—yet still, do it publicly.
+Yes, I might be asking for too much… like, how crazy is it to think this work would be motivating enough for someone to bother throwing eggs? That would be an achievement this work should never expect to have.
+ 
+ If the system is healthier than my family's experience suggests, show the evidence. If my challenges do not make logical sense, show me flaws in my logic. If what I say "cannot be," explain to me why that is and who you are to decide why. Either way, the debate starts here.
+All datasets, full analysis tables, and drafts are openly maintained for verification and collaboration at github.com/NoEndsNoGains/family-court-reform. Contributions, corrections, and challenges from practitioners, researchers, and affected families are welcome.
 
 
 ## 1. The Crises: Symptoms of Systemic Failure
